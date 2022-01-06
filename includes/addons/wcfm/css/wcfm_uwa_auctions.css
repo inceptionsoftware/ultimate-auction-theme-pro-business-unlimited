@@ -1,0 +1,8 @@
+li.wcfm_uwa_auctions_menu_item {
+    display: inline-block;
+    padding: 5px 0px 15px 0px;
+}
+ul.wcfm_uwa_auctions_menus {
+    float: left;
+}
+.uwa_auction_relist_date_field {display:none;}

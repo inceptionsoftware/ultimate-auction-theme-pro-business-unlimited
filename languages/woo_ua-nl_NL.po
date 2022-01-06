@@ -1,0 +1,3169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate WooCommerce Auction PRO\n"
+"POT-Creation-Date: 2019-06-01 11:50+0000\n"
+"PO-Revision-Date: 2019-09-26 19:17+0000\n"
+"Last-Translator: admin <info@pigeons-for-sale.com>\n"
+"Language-Team: Nederlands\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: includes/uwa-misc-functions.php:83
+msgid "Your bid of %s has been placed successfully"
+msgstr "Uw bod van %s is succesvol geplaatst"
+
+#: includes/uwa-misc-functions.php:88
+msgid "Your bid of %s has been placed successfully! Your max bid is %s."
+msgstr "Uw bod van %s is succesvol geplaatst! Uw maximale bod is %s."
+
+#: includes/uwa-misc-functions.php:103
+msgid "Your bid of %s has been placed successfully but you have been outbid"
+msgstr "Uw bod van %s is succesvol geplaatst, maar u bent overboden"
+
+#: includes/class-uwa-scripts.php:110
+msgid "Years"
+msgstr "Jaren"
+
+#: includes/class-uwa-scripts.php:111
+msgid "Months"
+msgstr "Maanden"
+
+#: includes/class-uwa-scripts.php:112
+msgid "Weeks"
+msgstr "Weken"
+
+#: includes/class-uwa-scripts.php:113
+msgid "Days"
+msgstr "Dagen"
+
+#: includes/class-uwa-scripts.php:114
+#: includes/admin/uwa_general_setting_tab.php:363
+#: includes/admin/uwa_general_setting_tab.php:370
+msgid "Hours"
+msgstr "Uren"
+
+#: includes/class-uwa-scripts.php:115
+#: includes/admin/uwa_general_setting_tab.php:364
+#: includes/admin/uwa_general_setting_tab.php:371
+msgid "Minutes"
+msgstr "Minuten"
+
+#: includes/class-uwa-scripts.php:116
+msgid "Seconds"
+msgstr "Secondes"
+
+#: includes/class-uwa-scripts.php:119
+msgid "Year"
+msgstr "Jaar"
+
+#: includes/class-uwa-scripts.php:120
+msgid "Month"
+msgstr "Maand"
+
+#: includes/class-uwa-scripts.php:121
+msgid "Week"
+msgstr "Week"
+
+#: includes/class-uwa-scripts.php:122
+msgid "Day"
+msgstr "Dag"
+
+#: includes/class-uwa-scripts.php:123
+msgid "Hour"
+msgstr "Uur"
+
+#: includes/class-uwa-scripts.php:124
+msgid "Minute"
+msgstr "Minuut"
+
+#: includes/class-uwa-scripts.php:125
+msgid "Second"
+msgstr "Seconde"
+
+#: includes/class-uwa-scripts.php:128
+msgid "y"
+msgstr "j"
+
+#: includes/class-uwa-scripts.php:129
+msgid "m"
+msgstr "m"
+
+#: includes/class-uwa-scripts.php:130
+msgid "w"
+msgstr "w"
+
+#: includes/class-uwa-scripts.php:131
+msgid "d"
+msgstr "d"
+
+#: includes/class-uwa-scripts.php:138
+msgid "Auction has expired!"
+msgstr "De veiling is verkocht!"
+
+#: includes/class-uwa-scripts.php:140
+msgid "Auction Started! Please refresh page."
+msgstr "De veiling is begonnen! Ververst u alstublieft de pagina."
+
+#: includes/class-uwa-scripts.php:142 includes/class-uwa-bid.php:159
+#: includes/class-uwa-bid.php:239
+msgid "You have been outbid."
+msgstr "U bent overboden"
+
+#: includes/class-uwa-front.php:242
+msgid "You can not buy this auction because you have not won it!"
+msgstr ""
+"U kunt deze veiling niet kopen, omdat u niet de winnaar bent van de veiling!"
+
+#: includes/class-uwa-front.php:287
+msgid "Winning!"
+msgstr "U heeft het hoogste bod!"
+
+#: includes/class-uwa-front.php:315
+msgid "Bids"
+msgstr "Biedingen"
+
+#: includes/class-uwa-front.php:347
+msgid "Private message"
+msgstr "Privé bericht"
+
+#: includes/class-uwa-front.php:380
+msgid "Please enter your Name!"
+msgstr "Vul alstublieft uw naam in!"
+
+#: includes/class-uwa-front.php:385
+msgid "Please enter your Email address!"
+msgstr "Vult u alstublieft u e-mailadres in!"
+
+#: includes/class-uwa-front.php:391
+msgid "Please enter a message!"
+msgstr "Vult u alstublieft uw bericht in!"
+
+#: includes/class-uwa-front.php:461
+msgid "Thank you for Contacting."
+msgstr "Dank voor het contact opnemen met ons."
+
+#: includes/class-uwa-front.php:538
+#: templates/woocommerce/single-product/uwa-watch.php:45
+msgid "Please sign in to watch this auction."
+msgstr "Logt u alstublieft in om deze veiling te bekijken."
+
+#: includes/class-uwa-front.php:538
+msgid "Login"
+msgstr "Inloggen"
+
+#: includes/class-uwa-front.php:482
+msgid "Reserve price has not been met!"
+msgstr "De reserveprijs is niet gehaald!"
+
+#: includes/class-uwa-front.php:492
+msgid "Winning bid is %s by %s."
+msgstr "Het winnende bod is %s van %s."
+
+#: includes/class-uwa-front.php:503
+msgid "There were no bids for this auction."
+msgstr "Er waren geen biedingen voor deze veiling"
+
+#: includes/class-uwa-front.php:514
+msgid "Please refresh page."
+msgstr "Ververs alstublieft de pagina."
+
+#: includes/class-uwa-bid.php:38 includes/uwa-misc-functions.php:367
+msgid "Please sign in to place your bid or buy the product."
+msgstr "Logt u alstublieft in om uw bod te plaatsen."
+
+#: includes/class-uwa-bid.php:53 includes/uwa-misc-functions.php:372
+msgid "Please enter a value greater than 0!"
+msgstr "Vult u alstublieft een waarde groter dan 0 in!"
+
+#: includes/class-uwa-bid.php:59
+msgid "This auction &quot;%s&quot; has expired"
+msgstr "Deze veiling &quot;%s&quot; is verkocht"
+
+#: includes/class-uwa-bid.php:54
+msgid ""
+"You cannot place a bid for &quot;%s&quot; because the product is out of "
+"stock."
+msgstr ""
+"U kunt geen bod plaatsen voor &quot;%s&quot; omdat het product niet op "
+"voorraad is."
+
+#: includes/admin/class-uwa-admin.php:1418
+msgid "Live Auction"
+msgstr "Live veiling"
+
+#: includes/admin/class-uwa-admin.php:1419
+msgid "Future Auction"
+msgstr "Toekomstige veiling"
+
+#: includes/admin/class-uwa-admin.php:1420
+msgid "Expired Auction"
+msgstr "Verlopen veiling"
+
+#: includes/admin/class-uwa-admin.php:1421
+msgid "Fail Auction"
+msgstr "Mislukte veiling"
+
+#: includes/admin/class-uwa-admin.php:1422
+msgid "Sold Auction"
+msgstr "Verkochte veiling"
+
+#: includes/admin/class-uwa-admin.php:1423
+msgid "Paid Auction"
+msgstr "Betaalde veiling"
+
+#: includes/class-uwa-product.php:48 includes/class-uwa-front.php:83
+#: includes/admin/class-uwa-admin.php:57
+msgid "New"
+msgstr "Nieuw"
+
+#: includes/class-uwa-product.php:48 includes/class-uwa-front.php:83
+#: includes/admin/class-uwa-admin.php:57
+msgid "Used"
+msgstr "Gebruikt"
+
+#: includes/class-uwa-product.php:690
+msgid "Bid now"
+msgstr "Bied nu"
+
+#: includes/class-uwa-product.php:585
+msgid "Auction finished"
+msgstr "Veiling is afgelopen"
+
+#: includes/class-uwa-product.php:585
+msgid "Auction has not started"
+msgstr "De veiling is niet gestart"
+
+#: includes/class-my-auction-watchlist.php:113
+#: includes/class-my-auction-watchlist.php:145
+msgid "My Auctions Watchlist"
+msgstr "Mijn veilingen volglijst"
+
+#: includes/class-my-auction.php:53 includes/class-my-auction.php:69
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:70
+msgid "My Auctions"
+msgstr "Mijn veilingen"
+
+#: templates/woocommerce/single-product/uwa-bid.php:51
+#: includes/class-uwa-front.php:583
+msgid "Reserve price has not been met."
+msgstr "De reserveprijs is niet gehaald."
+
+#: templates/woocommerce/single-product/uwa-bid.php:58
+#: includes/class-uwa-front.php:585
+msgid "Reserve price has been met."
+msgstr "De reserveprijs is gehaald."
+
+#: includes/admin/class-uwa-admin.php:120
+#: includes/admin/class-uwa-admin.php:329
+msgid "Auction Product"
+msgstr "Veiling Product"
+
+#: templates/woocommerce/single-product/uwa-bid.php:51
+msgid "Current Bid:"
+msgstr ""
+"Huidig Bod:\n"
+"\n"
+"\n"
+
+#: templates/woocommerce/single-product/uwa-bid.php:57
+msgid "price has been met."
+msgstr "prijs is gehaald."
+
+#: templates/woocommerce/single-product/uwa-pay.php:16
+msgid "Congratulations! you have won this auction."
+msgstr "Gefeliciteerd! u heeft deze veiling gewonnen"
+
+#: templates/woocommerce/myaccount/uwa-myauction.php:14
+#: templates/woocommerce/myaccount/uwa-myauction-watchlist.php:14
+#: includes/uwa-misc-functions.php:685 includes/uwa-misc-functions.php:865
+msgid "Status"
+msgstr "Status"
+
+#: templates/woocommerce/myaccount/uwa-myauction.php:37
+#: templates/woocommerce/myaccount/uwa-myauction-watchlist.php:36
+#: includes/uwa-misc-functions.php:717 includes/uwa-misc-functions.php:735
+#: includes/uwa-misc-functions.php:892
+msgid "Closed"
+msgstr "Gesloten"
+
+#: templates/woocommerce/myaccount/uwa-myauction.php:40
+#: templates/woocommerce/myaccount/uwa-myauction-watchlist.php:40
+#: includes/uwa-misc-functions.php:749 includes/uwa-misc-functions.php:895
+msgid "Started"
+msgstr "Gestart"
+
+#: templates/woocommerce/emails/auction-private-msg.php:20
+#: templates/woocommerce/emails/auction-winner-admin.php:22
+#: templates/woocommerce/emails/bid-outbided-admin.php:17
+#: templates/woocommerce/emails/placed-bid-admin.php:18
+#: templates/woocommerce/emails/plain/bid-outbided-admin.php:14
+#: templates/woocommerce/emails/plain/placed-bid-admin.php:15
+#: templates/woocommerce/emails/plain/auction-winner-admin.php:18
+msgid "Hi Admin,"
+msgstr "Hallo Admin,"
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:29
+#: templates/woocommerce/emails/auction-winner.php:29
+#: templates/woocommerce/emails/bid-outbided.php:29
+#: templates/woocommerce/emails/ending-soon-bidder.php:29
+#: templates/woocommerce/emails/placed-bid.php:26
+#: templates/woocommerce/emails/placed-bid-admin.php:24
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:29
+#: templates/woocommerce/emails/plain/auction-winner.php:28
+#: templates/woocommerce/emails/plain/auction-winner-admin.php:27
+#: templates/woocommerce/emails/plain/bid-outbided.php:23
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:29
+#: templates/woocommerce/emails/plain/placed-bid.php:24
+#: templates/woocommerce/emails/plain/placed-bid-admin.php:23
+msgid "Hi ,%s."
+msgstr "Hallo %s,"
+
+#: templates/woocommerce/emails/plain/auction-winner.php:32
+#: templates/woocommerce/emails/plain/auction-winner-admin.php:34
+msgid "Winning bid %s."
+msgstr "Winnende bod %s."
+
+#: templates/woocommerce/emails/plain/placed-bid.php:19
+#: templates/woocommerce/emails/plain/placed-bid-admin.php:19
+#: templates/woocommerce/emails/plain/bid-outbided.php:27
+#: templates/woocommerce/emails/plain/bid-outbided-admin.php:27
+#: templates/woocommerce/emails/plain/placed-bid.php:28
+#: templates/woocommerce/emails/plain/placed-bid-admin.php:27
+msgid "Bid Value %s."
+msgstr "Bod waarde %s."
+
+#: includes/admin/class-uwa-admin.php:167
+msgid "Product Condition"
+msgstr "Product staat"
+
+#: includes/admin/class-uwa-admin.php:199
+msgid "Opening Price"
+msgstr "Openingsprijs"
+
+#: includes/admin/class-uwa-admin.php:201
+msgid "Set the opening price for the auction"
+msgstr "Stel de openingsprijs van de veiling in"
+
+#: includes/admin/class-uwa-admin.php:211
+msgid "Lowest Price to Accept"
+msgstr "Laagste prijs die geaccepteerd wordt"
+
+#: includes/admin/class-uwa-admin.php:213
+msgid "Set Reserve price for your auction."
+msgstr "Stel de reserveprijs voor uw veiling in."
+
+#: includes/admin/class-uwa-admin.php:224
+msgid "Bid Increment"
+msgstr "Bodverhoging"
+
+#: includes/admin/class-uwa-admin.php:226
+msgid "Set an amount from which next bid should start."
+msgstr "Stel een bedrag in vanaf waar het volgende bod moet beginnen."
+
+#: includes/admin/class-uwa-admin.php:236
+msgid "Buy now price"
+msgstr "Koop nu prijs"
+
+#: includes/admin/class-uwa-admin.php:239
+msgid ""
+"Visitors can buy your auction by making payments via Available payment "
+"method."
+msgstr ""
+"Bezoekers kunnen uw veiling kopen door betalingen te doen via de beschikbare "
+"betaalmethode(n)."
+
+#: includes/admin/class-uwa-admin.php:258
+#: includes/admin/class-uwa-admin.php:294
+msgid "Ending Date"
+msgstr "Einddatum"
+
+#: includes/admin/class-uwa-admin.php:260
+#: includes/admin/class-uwa-admin.php:296
+msgid "Set the end date for the auction"
+msgstr "Stel de einddatum van de veiling in"
+
+#: includes/admin/class-uwa-admin.php:269
+msgid "Current Blog Time is %s"
+msgstr "De huidige tijd is %s"
+
+#: includes/admin/class-uwa-admin.php:221
+#: includes/admin/class-uwa-admin.php:271
+msgid "Change"
+msgstr "Verander"
+
+#: includes/admin/class-uwa-admin.php:446
+msgid "Bid History"
+msgstr "Biedhistorie"
+
+#: includes/admin/class-uwa-admin.php:1169
+msgid "Auction Expired without any bids"
+msgstr "Veiling is verlopen zonder biedingen"
+
+#: includes/admin/class-uwa-admin.php:1176
+msgid "Remove Reserve Price"
+msgstr "Verwijder de reserveprijs"
+
+#: includes/admin/class-uwa-admin.php:1182
+msgid "This auction product has been sold for buy now price"
+msgstr "Deze veiling is verkocht voor de koop nu prijs"
+
+#: includes/admin/class-uwa-admin.php:344
+#: includes/admin/class-uwa-admin.php:1192
+msgid "Highest bid was"
+msgstr "Het hoogste bod was"
+
+#: includes/admin/class-uwa-admin.php:1196
+msgid "Order has been paid, order ID is"
+msgstr "Order is betaald, het Order ID is"
+
+#: includes/admin/class-uwa-admin.php:354
+msgid "unknown"
+msgstr "onbekend"
+
+#: includes/admin/class-uwa-admin.php:1203
+msgid "Order has been made, order status is"
+msgstr "De order is geplaatst, de orderstatus is"
+
+#: includes/admin/class-uwa-admin.php:1025
+msgid "Auction Status"
+msgstr "Veiling status"
+
+#: includes/admin/class-uwa-admin.php:1056
+#: includes/admin/class-uwa-product.php:694
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:78
+msgid "Expired"
+msgstr "Verkocht"
+
+#: includes/admin/class-uwa-admin.php:1049
+#: modules/wcfm/wcfm-uwa-auctions-lists.php:71
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:71
+msgid "Live"
+msgstr "Live"
+
+#: includes/admin/uwa_manage_auctions.php:276
+#: includes/admin/uwa_manage_auctions.php:287
+#: includes/admin/uwa_manage_auctions.php:297
+#: includes/admin/uwa_manage_user_auctions.php:273
+#: includes/admin/uwa_manage_user_auctions.php:284
+#: includes/admin/uwa_manage_user_auctions.php:294
+#: includes/admin/class-uwa-admin.php:1233
+#: includes/admin/uwa_bids_lists.php:158
+#: modules/wcfm/wcfm-uwa-auctions-lists.php:75
+#: modules/wcfm/wcfm-uwa-auctions-lists.php:87
+msgid "Actions"
+msgstr "Veilingen"
+
+#: includes/admin/class-uwa-admin.php:495
+msgid "Live Auction"
+msgstr "Live veiling"
+
+#: includes/admin/class-uwa-admin.php:496
+msgid "Expired Auction"
+msgstr "Verkochte veiling"
+
+#: includes/admin/class-uwa-admin.php:539
+msgid "Auction filter By"
+msgstr "Veiling filteren op"
+
+#: includes/admin/class-uwa-admin.php:772
+#: includes/admin/class-uwa-admin.php:780
+#: includes/admin/class-uwa-admin.php:817
+#: includes/admin/class-uwa-admin.php:829
+msgid "Bid Deleted Successfully"
+msgstr "Uw bod is succesvol verwijderd"
+
+#: includes/admin/class-uwa-admin.php:739
+#: includes/admin/class-uwa-admin.php:838
+msgid "Bid Not Deleted"
+msgstr "Uw bod is niet verwijderd"
+
+#: includes/admin/class-uwa-admin.php:901
+msgid "Auction ended successfully."
+msgstr "Veiling is succesvol beëindigd."
+
+#: includes/admin/class-uwa-admin.php:906
+msgid "Sorry, this auction cannot be ended."
+msgstr "Sorry, deze veiling kan niet beëindigd worden."
+
+#: includes/class-users-bid.php:77 includes/class-users-bid.php:95
+#: includes/admin/class-uwa-admin.php:131
+msgid "Auctions"
+msgstr "Veilingen"
+
+#: includes/admin/uwa_general_setting.php:30
+msgid "Auction Settings"
+msgstr "Veiling instellingen"
+
+#: includes/admin/uwa_general_setting_tab.php:176
+msgid "Check Auction Status:"
+msgstr "Check Veiling Status:"
+
+#: includes/admin/uwa_general_setting_tab.php:186
+msgid "Minutes."
+msgstr "Minuten."
+
+#: includes/admin/uwa_general_setting_tab.php:180
+msgid ""
+"A scheduler runs on an interval specified in this field in recurring manner."
+"It checks, if some live auction product can be expired and accordingly "
+"update their status."
+msgstr ""
+"Een taakplanner loopt gedurende een interval die u hier kunt specificeren. "
+"De taakplanner checkt of een live veiling kan worden beëindigd en daarbij "
+"behorende status kan aanpassen."
+
+#: includes/admin/uwa_general_setting_tab.php:193
+msgid "No. Of Auctions Processed"
+msgstr "Aantal veilingen dat verwerkt wordt"
+
+#: includes/admin/uwa_general_setting_tab.php:201
+msgid "Process"
+msgstr "Verwerken"
+
+#: includes/admin/uwa_general_setting_tab.php:204
+msgid "auctions per request."
+msgstr "veilingen per aanvraag."
+
+#: includes/admin/uwa_general_setting_tab.php:198
+msgid ""
+"Scheduler processes total number of auctions mentioned in this field in one "
+"request."
+msgstr ""
+"Taakplanner verwerkt het totaal aantal veilingen ingevuld in dit veld in een "
+"verzoek."
+
+#: includes/admin/uwa_general_setting_tab.php:216
+msgid ""
+"This option lets you get bid amount information via AJAX requests as opposed "
+"to getting information on every page refresh. Please do note that it might "
+"affect your site's performance if these requests are sent too frequently"
+msgstr ""
+"Met deze optie kunt u informatie over biedingsbedragen krijgen via AJAX-"
+"aanvragen in plaats van informatie te krijgen na elke paginavernieuwing. "
+"Houd er rekening mee dat het de prestaties van uw site kan beïnvloeden als "
+"deze verzoeken te vaak worden verzonden"
+
+#: includes/admin/uwa_display_setting_tab.php:149
+msgid "Show Auctions on:"
+msgstr "Laat veilingen zien op:"
+
+#: includes/admin/uwa_display_setting_tab.php:194
+msgid "Countdown Format"
+msgstr "Aftel formaat"
+
+#: includes/admin/uwa_display_setting_tab.php:201
+msgid "The format for the countdown display. Default is yowdHMS"
+msgstr "Het formaat voor het terugtelscherm. Standaard is yowdHMS"
+
+#: includes/admin/uwa_display_setting_tab.php:217
+msgid "Enable Specific Sections:"
+msgstr "Activeer specifieke secties:"
+
+#: includes/admin/uwa_display_setting_tab.php:238
+#: includes/admin/uwa_general_setting_tab.php:429
+#: includes/uwa-misc-functions.php:952
+msgid "Save Changes"
+msgstr "Bewaar de aanpassingen"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:32
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:27
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:27
+msgid "​Email ​Can be sent to the bidder after winning an auction"
+msgstr ""
+"Deze e-mail kan verstuurd worden aan de bieder als hij / zij een veiling "
+"heeft gewonnen"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:33
+#: includes/admin/email/class-uwa-email-auction-winner.php:34
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:29
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:30
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:29
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:30
+msgid "Congratulations! You have won an auction on {site_title}"
+msgstr "Gefeliciteerd! U heeft een veiling gewonnen op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:85
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:113
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:192
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:184
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:188
+#: includes/admin/email/class-uwa-email-private-msg.php:183
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:99
+msgid "Enable/Disable"
+msgstr "Activeren/De-activeren"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:87
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:115
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:195
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:189
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:192
+#: includes/admin/email/class-uwa-email-private-msg.php:188
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:101
+msgid "Enable this email notification"
+msgstr "Activeer deze emailnotificatie"
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:119
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:203
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:197
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:203
+#: includes/admin/email/class-uwa-email-private-msg.php:197
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:107
+msgid "Recipient(s)"
+msgstr "Ontvanger(s)"
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:198
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:203
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:203
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:203
+#: includes/admin/email/class-uwa-email-private-msg.php:203
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:111
+msgid ""
+"Enter recipients (comma separated) for this email. Defaults to <code>"
+"%s</code>."
+msgstr ""
+"Vul ontvanger (gescheiden door komma's) in voor deze mail. Standaard wordt "
+"de mail verstuurd aan <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:203
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:212
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:205
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:211
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:202
+#: includes/admin/email/class-uwa-email-private-msg.php:211
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:122
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:219
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:226
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:221
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:225
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:218
+#: includes/admin/email/class-uwa-email-private-msg.php:225
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:130
+#: includes/admin/email/class-uwa-email-auction-bid-delete.php:136
+msgid "Email Heading"
+msgstr "E-mail kop"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:235
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:240
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:236
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:239
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:203
+#: includes/admin/email/class-uwa-email-private-msg.php:239
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:139
+msgid "Email type"
+msgstr "Email type"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:239
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:244
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:241
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:243
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:203
+#: includes/admin/email/class-uwa-email-private-msg.php:243
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:203
+msgid "Choose which format of email to send."
+msgstr "Kies in welk formaat u e-mails wilt verzenden."
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:207
+msgid ""
+"Enter the subject of the email that is sent to the bidder after winning an "
+"auction. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de bieder een "
+"veiling heeft gewonnen. Laat leeg om de standaard hoofdtitel te gebruiken "
+"<code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:223
+msgid ""
+"Enter the Heading of the email that is sent to the bidder after winning an "
+"auction. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de bieder als "
+"hij / zij een veiling heeft gewonnen.  Laat leeg om de standaard hoofdtitel "
+"te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:27
+msgid "​Send bid email notification to admin when Bidder places a bid."
+msgstr ""
+"Verstuur een e-mailmelding aan de administrator als een bieder een bod "
+"geplaatst heeft."
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:29
+msgid "​Bidder placed a bid on {site_title}"
+msgstr "Een bieder heeft een bod geplaatst op {site_title} "
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:28
+msgid "​Bid item on {site_title}"
+msgstr "​Bod item op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:216
+msgid ""
+"Enter the subject of the email that will be sent to the admin after "
+"successfully. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de "
+"administrator als een veiling succesvol is verkocht. Laat leeg om de "
+"standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:230
+msgid ""
+"Enter the Heading of the email that will be sent to the admin after "
+"successfully. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de "
+"administrator als een veiling succesvol is verkocht. Laat leeg om de "
+"standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:29
+msgid "​Email is sent to Bidder to outbid their bid."
+msgstr "Email wordt verzonden aan de bieder als zijn / haar bod overboden is."
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:30
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:31
+msgid "​You have been outbid on {site_title}"
+msgstr "U bent overboden op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:209
+msgid ""
+"​This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+"Dit bepaalt de onderwerpregel van de e-mail. Laat de regel leeg om het "
+"standaardonderwerp te gebruiken :  <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:225
+msgid ""
+"​This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Dit bestuurt de hoofdtitel in de e-mailmelding. Laat deze regel leeg als u "
+"gebruik wilt maken van de standaard hoofdtitel: <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:28
+msgid "Send outbid email notification to admin when Bidder outbids a bid."
+msgstr ""
+"Stuur een overbiedingsmail naar de administrator als een bieder een bod "
+"heeft overboden."
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:29
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:30
+msgid "Auction outbid on {site_title}"
+msgstr "Veiling overboden op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:215
+msgid ""
+"Enter the subject of the email that is sent to the admin after Bidder "
+"overbidded a bid. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de "
+"administrator als een bieder een bod heeft overboden. Laat leeg om de "
+"standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:229
+msgid ""
+"Enter the Heading of the email that is sent to the admin after Bidder "
+"overbidded a bid. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de "
+"administrator als een bieder een bod heeft overboden. Laat leeg om de "
+"standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:28
+msgid "Email Notification sent to Bidder when Bidder places a bid."
+msgstr ""
+"Emailnotificatie verzonden aan de bieder als hij / zij een bod geplaatst "
+"heeft."
+
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:29
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:30
+msgid "You recently placed a bid on {site_title}"
+msgstr "U heeft recentelijk een bod geplaatst op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:206
+msgid ""
+"Enter the subject of the email that is sent to the bidder after successfully "
+"placing a bid.Leave blank to use the default subject:- <code>%s</code>."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de bieder als "
+"hij .zij succesvol een bod heeft geplaatst. Laat leeg om de standaard "
+"hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:222
+msgid ""
+"Enter the Heading of the email that is sent to the bidder after successfully "
+"placing a bid. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de bieder als "
+"hij / zij een succesvol bod heeft uitgebracht. Laat leeg om de standaard "
+"hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-private-msg.php:28
+msgid "Email can be send to admin when bidder send Private message."
+msgstr ""
+"Deze e-mail kan verstuurd worden aan de administrator als een bieder een "
+"privé bericht heeft verstuurd."
+
+#: includes/admin/email/class-uwa-email-private-msg.php:30
+#: includes/admin/email/class-uwa-email-private-msg.php:31
+msgid "You have a private message from  {site_title}"
+msgstr "U heeft een privé bericht van {site_title} "
+
+#: includes/admin/email/class-uwa-email-private-msg.php:215
+msgid ""
+"Enter the subject of the email that is sent to the admin when bidder send "
+"private message. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de "
+"administrator als een bieder een privé bericht heeft verstuurd.  Laat leeg "
+"om de standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-private-msg.php:229
+msgid ""
+"Enter the heading of the email that is sent to the admin when bidder send "
+"private message. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de "
+"administrator als een bieder een prive bericht heeft gestuurd. Laat leeg om "
+"de standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:27
+msgid "Can be sent to admin when the auction ends and has a winner"
+msgstr ""
+"Kan verstuurd worden aan de administrator als de veiling is beëindigd en een "
+"winnaar heeft."
+
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:29
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:30
+msgid "Auction Product Won by User on {site_title}"
+msgstr "Veiling gewonnen door gebruiker op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:123
+msgid ""
+"This controls the email subject line. Leave blank to use the default Subject:"
+" <code>%s</code>."
+msgstr ""
+"Dit bepaalt de onderwerpregel van de e-mail. Laat de regel leeg om het "
+"standaardonderwerp te gebruiken :  <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:131
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Dit bestuurt de hoofdtitel in de e-mailmelding. Laat deze regel leeg als u "
+"gebruik wilt maken van de standaard hoofdtitel: <code>%s</code>."
+
+#: includes/admin/uwa_manage_auctions.php:271
+#: includes/admin/uwa_manage_auctions.php:281
+#: includes/admin/uwa_manage_auctions.php:293
+#: includes/admin/uwa_manage_user_auctions.php:268
+#: includes/admin/uwa_manage_user_auctions.php:278
+#: includes/admin/uwa_manage_user_auctions.php:290
+msgid "Auction Title"
+msgstr "Veiling titel"
+
+#: includes/admin/uwa_manage_auctions.php:272
+#: includes/admin/uwa_manage_auctions.php:282
+#: includes/admin/uwa_manage_user_auctions.php:269
+#: includes/admin/uwa_manage_user_auctions.php:279
+msgid "Creation Date"
+msgstr "Aanmaak datum"
+
+#: includes/admin/uwa_manage_auctions.php:274
+#: includes/admin/uwa_manage_user_auctions.php:271
+msgid "Starting / Current Price"
+msgstr "Start / Huidige prijs"
+
+#: includes/admin/uwa_manage_auctions.php:275
+#: includes/admin/uwa_manage_auctions.php:285
+#: includes/admin/uwa_manage_user_auctions.php:272
+#: includes/admin/uwa_manage_user_auctions.php:282
+msgid "Bidders Name / Bid / Time / Max Bid"
+msgstr "Biedersnaam / Bod / Tijd / Maximale bod"
+
+#: includes/admin/uwa_manage_auctions.php:283
+#: includes/admin/uwa_manage_auctions.php:295
+#: includes/admin/uwa_manage_user_auctions.php:280
+#: includes/admin/uwa_manage_user_auctions.php:292
+msgid "End Date"
+msgstr "Einddatum"
+
+#: includes/admin/uwa_manage_auctions.php:284
+#: includes/admin/uwa_manage_auctions.php:296
+#: includes/admin/uwa_manage_user_auctions.php:281
+#: includes/admin/uwa_manage_user_auctions.php:293
+msgid "Starting / Final Price"
+msgstr "Start / Laatste prijs"
+
+#: includes/admin/widgets/class-uwa-widget-expired-auctions.php:70
+#: includes/admin/uwa_manage_auctions.php:517
+#: includes/admin/uwa_manage_user_auctions.php:544
+#: ultimate-woocommerce-auction-pro.php:448
+msgid "Expired Auctions"
+msgstr "Verkochte veilingen"
+
+#: includes/admin/uwa_manage_auctions.php:202
+#: includes/uwa-misc-functions.php:123 includes/uwa-misc-functions.php:128
+#: includes/admin/uwa_manage_user_auctions.php:203
+msgid "No bids placed"
+msgstr "Er zijn biedingen gedaan"
+
+#: includes/class-my-auction-setting.php:55
+#: includes/class-my-auction-setting.php:71
+msgid "Auctions Setting"
+msgstr "Veiling instelling"
+
+#: templates/woocommerce/myaccount/uwa-myauction-setting.php:19
+#: includes/uwa-misc-functions.php:940
+msgid "Display your name publicly"
+msgstr "Laat uw naam publiekelijk zien"
+
+#: templates/woocommerce/myaccount/uwa-myauction.php:57
+msgid "No auctions available yet."
+msgstr "Er zijn geen veilingen beschikbaar op dit moment"
+
+#: templates/woocommerce/myaccount/uwa-myauction-watchlist.php:53
+msgid "No Watchlist auctions available yet."
+msgstr "Er zijn geen veilingen in de volglijst beschikbaar op dit moment."
+
+#: templates/woocommerce/uwa-auction-searchform.php:3
+msgid "Search Auctions"
+msgstr "Zoek Veilingen"
+
+#: templates/woocommerce/myaccount/uwa-users-bids.php:36
+msgid "Bids Active"
+msgstr "Actieve biedingen"
+
+#: templates/woocommerce/myaccount/uwa-users-bids.php:41
+#: includes/admin/uwa_bids_lists.php:356
+#: includes/admin/uwa_users_bids_lists.php:362
+msgid "Bids Won"
+msgstr "Gewonnen biedingen"
+
+#: templates/woocommerce/myaccount/uwa-users-bids.php:45
+#: includes/admin/uwa_bids_lists.php:357
+#: includes/admin/uwa_users_bids_lists.php:363
+msgid "Bids Lost"
+msgstr "Overboden biedingen"
+
+#: templates/woocommerce/myaccount/uwa-users-bids.php:49
+msgid "Watchlist"
+msgstr "Volglijst"
+
+#: templates/woocommerce/myaccount/uwa-users-bids.php:53
+#: includes/admin/class-uwa-admin.php:123
+msgid "Settings"
+msgstr "Instellingen"
+
+#: templates/woocommerce/myaccount/uwa-pay-button.php:22
+#: templates/woocommerce/single-product/uwa-pay.php:29
+#: templates/woocommerce/loop/uwa-pay-button.php:22
+#: templates/woocommerce/emails/auction-remind-to-pay.php:48
+#: templates/woocommerce/emails/auction-winner.php:48
+#: templates/woocommerce/emails/ending-soon-bidder.php:48
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:48
+#: templates/woocommerce/emails/plain/auction-winner.php:25
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:48
+#: includes/class-uwa-front.php:498 includes/uwa-misc-functions.php:714
+#: includes/uwa-misc-functions.php:889
+msgid "Pay Now"
+msgstr "Betaal nu"
+
+#: templates/woocommerce/myaccount/uwa-watch.php:27
+#: templates/woocommerce/loop/uwa-watch.php:27
+msgid "Unwatch"
+msgstr "Niet meer volgen"
+
+#: templates/woocommerce/myaccount/uwa-watch.php:29
+#: templates/woocommerce/single-product/uwa-watch.php:29
+#: templates/woocommerce/loop/uwa-watch.php:29
+msgid "View List"
+msgstr "Bekijk lijst"
+
+#: templates/woocommerce/myaccount/uwa-watch.php:32
+#: templates/woocommerce/loop/uwa-watch.php:32
+msgid "Watch!"
+msgstr "Kijk!"
+
+#: templates/woocommerce/single-product/uwa-bid.php:40
+msgid "Your Minimum Bid is"
+msgstr "Uw minimale bod is"
+
+#: templates/woocommerce/single-product/uwa-bid.php:40
+msgid "Your Maximum Bid is"
+msgstr "Uw maximale bod is"
+
+#: templates/woocommerce/single-product/uwa-bid.php:41
+msgid "Minimum bid for this auction is %s."
+msgstr "Het minimale bod voor deze veiling is %s."
+
+#: templates/woocommerce/single-product/uwa-bid.php:41
+msgid "Maximum bid for this auction is %s."
+msgstr ""
+"Het maximale bod voor deze veiling is %s.\n"
+
+#: templates/woocommerce/single-product/uwa-bid.php:48
+msgid "Item condition:"
+msgstr "Item :"
+
+#: templates/woocommerce/single-product/uwa-bid.php:59
+msgid "Time Left:"
+msgstr "Resterende tijd:"
+
+#: templates/woocommerce/single-product/uwa-bid.php:66
+#: templates/woocommerce/single-product/uwa-bid.php:210
+msgid "Ending On:"
+msgstr "Eindigd op:"
+
+#: templates/woocommerce/single-product/uwa-bid.php:72
+#: includes/admin/class-uwa-admin.php:270
+msgid "Timezone:"
+msgstr "Tijdzone:"
+
+#: templates/woocommerce/single-product/uwa-bid.php:80
+#: templates/woocommerce/single-product/uwa-bid.php:87
+msgid "price has not been met."
+msgstr "prijs is niet gehaald."
+
+#: templates/woocommerce/single-product/uwa-bid.php:82
+#: templates/woocommerce/single-product/uwa-bid.php:89
+msgid "Reserve %s"
+msgstr "Reserveprijs %s"
+
+#: templates/woocommerce/single-product/uwa-bid.php:97
+msgid "This auction is silent-bid"
+msgstr "Deze veiling is met een zogenaamde \"stille bieding\""
+
+#: templates/woocommerce/single-product/uwa-bid.php:98
+msgid ""
+"A silent bid auction is a type of auction process in which all bidders "
+"simultaneously submit sealed bids to the auctioneer, so that no bidder knows "
+"how much the other auction participants have bid. The highest bidder is "
+"usually declared the winner of the bidding process"
+msgstr ""
+"Een \"stil bod veiling\" is een type veiling waarbij alle bieders tegelijk "
+"hun \"verzegelde\" bod aanbieden aan de veilingmeester, zo dat geen enkele "
+"bieder van elkaar weer wat zij geboden hebben. De hoogste bieder wordt "
+"meestal uitgeroepen tot winnaar van de veiling."
+
+#: templates/woocommerce/single-product/uwa-bid.php:115
+msgid "This is reverse auction"
+msgstr "Dit is een omgekeerde veiling"
+
+#: templates/woocommerce/single-product/uwa-bid.php:120
+msgid "<strong>This auction is under proxy bidding.</strong>"
+msgstr ""
+"<strong>Deze veiling werkt met proxy biedingen (automatisch bieden).</strong>"
+
+#: templates/woocommerce/single-product/uwa-bid.php:140
+#: templates/woocommerce/single-product/uwa-bid.php:157
+#: templates/woocommerce/emails/placed-bid-admin.php:31
+msgid "Bid Value"
+msgstr "Biedwaarde"
+
+#: templates/woocommerce/single-product/uwa-bid.php:146
+#: templates/woocommerce/single-product/uwa-bid.php:164
+msgid "Place Bid"
+msgstr "Plaats een bod"
+
+#: templates/woocommerce/single-product/uwa-bid.php:149
+msgid "Enter less than or equal to"
+msgstr "Vul een bedrag in dat lager of gelijk is dan "
+
+#: templates/woocommerce/single-product/uwa-bid.php:167
+msgid "Enter more than or equal to"
+msgstr "Vul een bedrag in dat hoger of gelijk is dan "
+
+#: templates/woocommerce/single-product/uwa-bid.php:192
+msgid "Auction has not been started yet."
+msgstr ""
+"De veiling is nog niet gestart\n"
+
+#: templates/woocommerce/single-product/uwa-bid.php:196
+msgid "Start On:"
+msgstr "Start op:"
+
+#: templates/woocommerce/single-product/uwa-bid.php:203
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:115
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:125
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:120
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:110
+msgid "Starting Time Left:"
+msgstr "Resterende tijd voordat de veiling start"
+
+#: templates/woocommerce/single-product/uwa-pay.php:25
+msgid "Congratulations! you have won this auction"
+msgstr "Gefeliciteerd! u heeft deze veiling gewonnen"
+
+#: templates/woocommerce/single-product/uwa-watch.php:27
+msgid "Remove from watchlist!"
+msgstr "Verwijder van volglijst!"
+
+#: templates/woocommerce/single-product/uwa-watch.php:47
+msgid "Add to watchlist!"
+msgstr "Voeg toe aan uw volglijst!"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:18
+#: includes/admin/class-uwa-admin.php:1216
+msgid "Total Bids Placed:"
+msgstr "Totaal aantal geplaatste biedingen:"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:26
+#: includes/admin/class-uwa-admin.php:1165
+msgid "Auction has expired"
+msgstr ""
+"De veiling is verkocht\n"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:28
+msgid "Auction Expired because there were no bids"
+msgstr "Veiling is verlopen, omdat er geen biedingen waren"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:30
+msgid "Auction expired without reaching reserve price"
+msgstr "Veiling is verlopen zonder dat de reserveprijs is behaald"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:34
+msgid "Product sold for buy now price"
+msgstr "De veiling is verkocht voor de koop nu prijs"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:36
+#: includes/admin/class-uwa-admin.php:1190
+msgid "Highest bidder was"
+msgstr "De hoogste bieder was"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:50
+#: includes/admin/class-uwa-admin.php:1229
+msgid "Bidder Name"
+msgstr "Biedersnaam"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:51
+#: includes/admin/class-uwa-admin.php:1230
+msgid "Bidding Time"
+msgstr "Bied tijd"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:52
+#: includes/admin/class-uwa-admin.php:1231
+#: includes/admin/uwa_bids_lists.php:155
+#: includes/admin/uwa_users_bids_lists.php:160
+msgid "Bid"
+msgstr "Bod"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:53
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:86
+#: includes/class-uwa-product.php:547 includes/admin/class-uwa-admin.php:1232
+#: includes/admin/class-uwa-admin.php:1244
+msgid "Auto"
+msgstr "Automatisch"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:100
+#: includes/admin/class-uwa-admin.php:1262
+msgid "Auction started"
+msgstr "Veiling is begonnen"
+
+#: templates/woocommerce/single-product/tabs/uwa-bids-history.php:102
+#: includes/admin/class-uwa-admin.php:1264
+msgid "Auction starting"
+msgstr "Beginnende veiling"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:24
+msgid "Send Private Message"
+msgstr "Stuur een privé bericht"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:39
+#: templates/woocommerce/emails/auction-private-msg.php:35
+msgid "Name:"
+msgstr "Naam:"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:41
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:54
+msgid "Your Name"
+msgstr "Uw naam"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:46
+#: templates/woocommerce/emails/auction-private-msg.php:39
+msgid "Email:"
+msgstr "Email:"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:60
+#: templates/woocommerce/emails/auction-private-msg.php:43
+msgid "Message:"
+msgstr "Bericht:"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:62
+msgid "Message Detail"
+msgstr "Bericht details"
+
+#: templates/woocommerce/single-product/tabs/uwa-private-msg.php:71
+msgid "Send"
+msgstr ""
+"V\n"
+"erzenden"
+
+#: templates/woocommerce/single-product/add-to-cart/uwa-auction.php:47
+msgid "Buy Now %s"
+msgstr "Nu kopen %s"
+
+#: templates/woocommerce/emails/auction-private-msg.php:29
+#: templates/woocommerce/emails/auction-winner-admin.php:29
+#: templates/woocommerce/emails/bid-outbided-admin.php:25
+#: templates/woocommerce/emails/plain/bid-outbided-admin.php:23
+#: templates/woocommerce/emails/placed-bid.php:47
+msgid "Hi,"
+msgstr "Hallo,"
+
+#: templates/woocommerce/emails/auction-private-msg.php:32
+#: templates/woocommerce/emails/auction-remind-to-pay.php:31
+#: templates/woocommerce/emails/auction-winner.php:31
+#: templates/woocommerce/emails/auction-winner-admin.php:32
+#: templates/woocommerce/emails/bid-outbided.php:31
+#: templates/woocommerce/emails/bid-outbided-admin.php:27
+#: templates/woocommerce/emails/ending-soon-bidder.php:31
+#: templates/woocommerce/emails/placed-bid.php:29
+#: templates/woocommerce/emails/placed-bid-admin.php:26
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:31
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:31
+#: templates/woocommerce/emails/bid-deleted.php:30
+#: templates/woocommerce/emails/plain/bid-deleted.php:33
+msgid "Here are the details : "
+msgstr "Dit zijn de details :"
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:29
+#: templates/woocommerce/emails/auction-winner.php:29
+#: templates/woocommerce/emails/bid-outbided.php:29
+#: templates/woocommerce/emails/ending-soon-bidder.php:29
+#: templates/woocommerce/emails/placed-bid.php:26
+#: templates/woocommerce/emails/placed-bid-admin.php:24
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:29
+#: templates/woocommerce/emails/plain/auction-winner.php:28
+#: templates/woocommerce/emails/plain/auction-winner-admin.php:27
+#: templates/woocommerce/emails/plain/bid-outbided.php:23
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:29
+#: templates/woocommerce/emails/plain/placed-bid.php:24
+#: templates/woocommerce/emails/plain/placed-bid-admin.php:23
+msgid "Hi, %s."
+msgstr "Hallo, %s,"
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:35
+#: templates/woocommerce/emails/auction-winner.php:35
+#: templates/woocommerce/emails/auction-winner-admin.php:35
+#: templates/woocommerce/emails/bid-outbided.php:34
+#: templates/woocommerce/emails/bid-outbided-admin.php:30
+#: templates/woocommerce/emails/ending-soon-bidder.php:35
+#: templates/woocommerce/emails/placed-bid.php:32
+#: templates/woocommerce/emails/placed-bid-admin.php:29
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:35
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:35
+#: includes/uwa-misc-functions.php:681 includes/uwa-misc-functions.php:862
+#: templates/woocommerce/emails/bid-deleted.php:34
+msgid "Image"
+msgstr "Plaatje"
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:36
+#: templates/woocommerce/emails/auction-winner.php:36
+#: templates/woocommerce/emails/auction-winner-admin.php:36
+#: templates/woocommerce/emails/bid-outbided.php:35
+#: templates/woocommerce/emails/bid-outbided-admin.php:31
+#: templates/woocommerce/emails/ending-soon-bidder.php:36
+#: templates/woocommerce/emails/placed-bid.php:33
+#: templates/woocommerce/emails/placed-bid-admin.php:30
+#: templates/woocommerce/emails/ending-soon-bidder.php:36
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:36
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:36
+#: includes/uwa-misc-functions.php:682 includes/uwa-misc-functions.php:863
+#: templates/woocommerce/emails/bid-deleted.php:35
+msgid "Product"
+msgstr "Product"
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:37
+#: templates/woocommerce/emails/auction-winner.php:37
+#: templates/woocommerce/emails/auction-winner-admin.php:37
+#: templates/woocommerce/emails/ending-soon-bidder.php:37
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:37
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:37
+msgid "Winning bid"
+msgstr "Winnende bod"
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:47
+#: templates/woocommerce/emails/auction-winner.php:47
+#: templates/woocommerce/emails/ending-soon-bidder.php:47
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:47
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:47
+msgid "Please, proceed to checkout"
+msgstr "Gaat u alstublieft verder naar afrekenen"
+
+#: templates/woocommerce/emails/auction-winner-admin.php:38
+msgid "Winner"
+msgstr "Winnaar"
+
+#: templates/woocommerce/emails/bid-outbided.php:36
+#: templates/woocommerce/emails/bid-outbided-admin.php:32
+#: includes/uwa-misc-functions.php:684 includes/uwa-misc-functions.php:864
+msgid "Current bid"
+msgstr "Huidig bod"
+
+#: templates/woocommerce/emails/bid-outbided.php:45
+msgid "If you want to bid a new amount, click here"
+msgstr "Als u een nieuw bod uit wil brengen, klik dan hier"
+
+#: templates/woocommerce/emails/placed-bid.php:34
+#: includes/uwa-misc-functions.php:683
+msgid "Your bid"
+msgstr "Uw bod"
+
+#: includes/admin/uwa_display_setting_tab.php:135
+msgid "Shop Page Setting"
+msgstr "Winkelpagina Instellingen"
+
+#: includes/admin/uwa_display_setting_tab.php:138
+msgid "Badge image URL"
+msgstr "Veiling icoontje URL"
+
+#: includes/admin/uwa_display_setting_tab.php:141
+msgid "You can overright Auctions Badge Image. put image url here."
+msgstr ""
+"U kunt het veiling icoontje overschrijven. Vul hier de URL in van het "
+"plaatje."
+
+#: includes/admin/uwa_display_setting_tab.php:145
+#: includes/admin/uwa_general_setting_tab.php:396
+msgid "Default is"
+msgstr "De standaard is"
+
+#: includes/admin/uwa_display_setting_tab.php:152
+msgid "On Shop Page."
+msgstr "Op de winkelpagina"
+
+#: includes/admin/uwa_display_setting_tab.php:159
+msgid "On Product Search Page."
+msgstr "Op de product zoekpagina"
+
+#: includes/admin/uwa_display_setting_tab.php:166
+msgid "On Product Category Page."
+msgstr "Op de productcategoriepagina"
+
+#: includes/admin/uwa_display_setting_tab.php:172
+msgid "On Product Tag Page."
+msgstr "Op de product tagpagina"
+
+#: includes/admin/uwa_display_setting_tab.php:179
+msgid "Show Expired Auctions."
+msgstr "Laat verkochte veilingen zien."
+
+#: includes/admin/uwa_display_setting_tab.php:190
+msgid "Auction Detail Page Setting"
+msgstr "Veiling Detailpagina instellingen"
+
+#: includes/admin/uwa_display_setting_tab.php:197
+msgid ""
+"Use the following characters (in order) to indicate which periods you want "
+"to display: 'Y' for years, 'O' for months, 'W' for weeks, 'D' for days, 'H' "
+"for hours, 'M' for minutes, 'S' for seconds.\tUse upper-case characters for "
+"mandatory periods, or the corresponding lower-case characters for optional "
+"periods, i.e. only display if non-zero. Once one optional period is shown, "
+"all the ones after that are also shown."
+msgstr ""
+"Gebruik de volgende karakters om aan te geven welke perioden je wenst af te "
+"beelden:  'Y' voor jaren, 'O' voor maanden, 'W' voor weken, 'D' voor dagen, "
+"'H' voor uren, 'M' voor minuten, 'S' voor seconden. Gebruik hoofdletters "
+"voor verplichte perioden, of de kleine letters voor optionele perioden. Dat "
+"wil zeggen alleen laten zien als de waarde niet nul is. Als een optionele "
+"periode wordt weergegeven, alle karakters daarna zullen ook worden "
+"weergegeven."
+
+#: includes/admin/uwa_display_setting_tab.php:208
+msgid "Hide compact countdown"
+msgstr "Verberg de compacte terugtel-optie"
+
+#: includes/admin/uwa_display_setting_tab.php:212
+msgid "Hide compact countdown format and display simple format."
+msgstr "Verberg de compacte terugtel-optie en laat een simpel formaat zien."
+
+#: includes/admin/uwa_display_setting_tab.php:220
+msgid "Enable Send Private message."
+msgstr "Activeer privé bericht versturen."
+
+#: includes/admin/uwa_display_setting_tab.php:227
+msgid "Enable Bids section."
+msgstr "Activeer Biedingen sectie."
+
+#: includes/admin/uwa_display_setting_tab.php:233
+msgid "Enable Watchlists."
+msgstr "Activeer volglijsten."
+
+#: includes/admin/uwa_display_setting_tab.php:273
+msgid "Enable Reverse Auction Text."
+msgstr "Activeer de tekst voor een \"omgekeerde\" veiling"
+
+#: includes/admin/uwa_display_setting_tab.php:289
+msgid "Enable Proxy Auction Text."
+msgstr "Activeer de Proxy veiling tekst"
+
+#: includes/admin/uwa_general_setting.php:14
+#: includes/admin/uwa_import_utility.php:13
+#: includes/admin/uwa_manage_auctions.php:467
+msgid "Ultimate WooCommerce Auction PRO"
+msgstr "Ultimate WooCommerce Auction PRO"
+
+#: includes/admin/uwa_general_setting.php:15
+#: includes/admin/uwa_import_utility.php:14
+#: includes/admin/uwa_manage_auctions.php:468
+msgid "Version :"
+msgstr "Versie :"
+
+#: includes/admin/uwa_general_setting.php:31
+msgid "Display Settings"
+msgstr "Weergave instellingen"
+
+#: includes/admin/uwa_general_setting_tab.php:171
+msgid "Scheduler Settings"
+msgstr "Taakplanner Instellingen"
+
+#: includes/admin/uwa_general_setting_tab.php:236
+msgid "Second."
+msgstr "Seconde."
+
+#: includes/admin/uwa_general_setting_tab.php:242
+msgid "Proxy Auction Settings"
+msgstr "Proxy Veiling Instellingen"
+
+#: includes/admin/uwa_general_setting_tab.php:248
+msgid "Enable Proxy Bidding:"
+msgstr "Activeer \"Proxy Bidding\":"
+
+#: includes/admin/uwa_general_setting_tab.php:253
+msgid "Proxy Bidding"
+msgstr "Proxy Bieden (Automatisch Bieden)"
+
+#: includes/admin/uwa_general_setting_tab.php:254
+#: includes/admin/class-uwa-admin.php:181
+msgid ""
+"Proxy Bidding (also known as Automatic Bidding) - Our automatic bidding "
+"system makes bidding convenient so you don't have to keep coming back to re-"
+"bid every time someone places another bid. When you place a bid, you enter "
+"the maximum amount you're willing to pay for the item. The seller and other "
+"bidders don't know your maximum bid. We'll place bids on your behalf using "
+"the automatic bid increment amount, which is based on the current high bid. "
+"We'll bid only as much as necessary to make sure that you remain the high "
+"bidder, or to meet the reserve price, up to your maximum amount."
+msgstr ""
+"Proxy Bieden (ook bekend als Automatisch Bieden) - Ons automatisch bieden "
+"systeem maakt het bieden makkelijker voor u zodat u niet iedere keer opnieuw "
+"een bod hoeft te plaatsen als een andere bieder een hoger bod dan uw bod "
+"heeft geplaatst. Als u een bod wilt uitbrengen vult u het maximale bedrag in "
+"dat u wenst te betalen voor dit item. De verkoper en andere bieders weten "
+"niet wat uw maximale bod is. Het systeem zal namens u biedingen blijven "
+"plaatsen op basis van het vooraf ingestelde bedrag waarmee een bod moet "
+"worden verhoogd welke weer gebaseerd is op het huidige bod. Er zal nooit "
+"meer geboden worden dan noodzakelijk is om u als hoogste bieder aan te "
+"merken, of om de minimale verkoopprijs te bieden, tot het door u ingestelde "
+"maximum bedrag."
+
+#: includes/admin/uwa_general_setting_tab.php:258
+#: includes/admin/class-uwa-admin.php:180
+msgid "Enable Proxy Bidding"
+msgstr "Activeer \"Proxy Bidding\""
+
+#: includes/admin/uwa_general_setting_tab.php:265
+msgid "By Default Proxy:"
+msgstr "Standaard Proxy:"
+
+#: includes/admin/uwa_general_setting_tab.php:269
+#: includes/admin/uwa_general_setting_tab.php:273
+msgid "Enable By Default Proxy Bidding"
+msgstr "Activeer Proxy Bieding (automatisch bieden) als standaard"
+
+#: includes/admin/uwa_general_setting_tab.php:282
+msgid ""
+"if you enable Mask Username for proxy bidding username will add ****** and "
+"not display full Username public "
+msgstr ""
+"als u Maskeer gebruikersnaam inschakelt voor \"Proxy Bidding\" dan zal de "
+"gebruikersnaam worden vervangen door ****** en zal de gebruikersnaam niet "
+"publiekelijk worden weergegeven."
+
+#: includes/admin/uwa_general_setting_tab.php:285
+#: includes/admin/uwa_general_setting_tab.php:332
+msgid "Mask Username"
+msgstr "Maskeer de gebruikersnaam"
+
+#: includes/admin/uwa_general_setting_tab.php:294
+msgid ""
+"if you enable Mask Bid for proxy bidding Bid value will add ****** and not "
+"display full Bid Value public "
+msgstr ""
+"als u Maskeer bod inschakelt voor \"Proxy Biedingen\" dan zal het bod worden "
+"vervangen door ****** en zal het bod niet publiekelijk worden weergegeven."
+
+#: includes/admin/uwa_general_setting_tab.php:297
+#: includes/admin/uwa_general_setting_tab.php:346
+msgid "Mask Bid Amount"
+msgstr "Maskeer de hoogte van het bod"
+
+#: includes/admin/uwa_general_setting_tab.php:303
+msgid "Silent Auction Settings"
+msgstr "Stille bieding Instellingen"
+
+#: includes/admin/uwa_general_setting_tab.php:309
+#: includes/admin/uwa_general_setting_tab.php:318
+msgid "Enable Silent Bidding"
+msgstr "Activeer \"Stille biedingen\""
+
+#: includes/admin/uwa_general_setting_tab.php:314
+msgid "Silent bidding"
+msgstr "Stille bieding"
+
+#: includes/admin/uwa_general_setting_tab.php:315
+#: includes/admin/class-uwa-admin.php:192
+msgid ""
+"A Silent-bid auction is a type of auction process in which all bidders "
+"simultaneously submit Silent bids to the auctioneer, so that no bidder knows "
+"how much the other auction participants have bid. The highest bidder is "
+"usually declared the winner of the bidding process."
+msgstr ""
+"Een \"stil bod veiling\" is een type veiling waarbij alle bieders tegelijk "
+"hun \"verzegelde\" bod aanbieden aan de veilingmeester, zo dat geen enkele "
+"bieder van elkaar weer wat zij geboden hebben. De hoogste bieder wordt "
+"meestal uitgeroepen tot winnaar van de veiling."
+
+#: includes/admin/uwa_general_setting_tab.php:329
+msgid ""
+"if you enable Mask Username for silent bidding username will add ****** and "
+"not display full Username public"
+msgstr ""
+"als u Maskeer gebruikersnaam inschakelt voor \"Stille Biedingen\" dan zal de "
+"gebruikersnaam worden vervangen door ****** en zal de gebruikersnaam niet "
+"publiekelijk worden weergegeven."
+
+#: includes/admin/uwa_general_setting_tab.php:342
+msgid ""
+"if you enable Mask Bid for silent bidding Bid value will add ****** and not "
+"display full Bid Value public "
+msgstr ""
+"als u Maskeer bod inschakelt voor \"Stille Biedingen\" dan zal het bod "
+"worden vervangen door ****** en zal het bod niet publiekelijk worden "
+"weergegeven."
+
+#: includes/admin/uwa_general_setting_tab.php:352
+msgid "Extra Settings"
+msgstr "Extra Instellingen"
+
+#: includes/admin/uwa_general_setting_tab.php:384
+msgid ""
+"If someone places bid in last few minutes or hours then you can extend end "
+"time by some hours/minutes to give all bidders chance to re-bid."
+msgstr ""
+"Als iemand een bod plaatst in de laatste minuten of uren van een lopende "
+"veiling, dan kunt u de eindtijd verlengen met enkele uren / minuten om alle "
+"bieders de kans te geven om een hoger bod uit te brengen."
+
+#: includes/admin/uwa_general_setting_tab.php:391
+msgid "Mention Maximum Bidding Amount"
+msgstr "Vermeld maximum biedbedrag"
+
+#: includes/admin/uwa_general_setting_tab.php:394
+msgid "You can set maximum bidding amount here."
+msgstr "U kunt het maximale bod hier instellen."
+
+#: includes/admin/widgets/class-uwa-widget-auction-search.php:24
+msgid "A search auctions form for your store."
+msgstr "Een zoek veiling formulier voor uw winkel."
+
+#: includes/admin/widgets/class-uwa-widget-auction-search.php:26
+msgid "Auction Product Search"
+msgstr "Veiling zoeken"
+
+#: includes/admin/widgets/class-uwa-widget-auction-search.php:31
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:26
+msgid "Display a list of Ending Soon Auctions from your store"
+msgstr "Laat een lijst zien van veilingen die binnenkort verlopen"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:29
+msgid "UWA Ending Soon Auctions"
+msgstr "UWA Veilingen die binnenkort eindigen"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:71
+msgid "Ending Soon Auctions"
+msgstr "Veilingen die binnenkort eindigen"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:111
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:110
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:109
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:120
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:115
+msgid "Time left"
+msgstr "Resterende tijd"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:119
+msgid "Ending Soon Auction not found"
+msgstr "Veiling niet gevonden die binnenkort eindigt "
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:166
+#: includes/admin/widgets/class-uwa-widget-expired-auctions.php:156
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:170
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:165
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:186
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:174
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:167
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:169
+#: includes/admin/widgets/class-uwa-widget-expired-auctions.php:159
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:173
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:168
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:189
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:177
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:170
+msgid "Number of auctions to show:"
+msgstr "Aantal veilingen om te laten zien:"
+
+#: includes/admin/widgets/class-uwa-widget-ending-soon-auctions.php:172
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:177
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:172
+msgid "Hide time left"
+msgstr "Verberg de resterende tijd"
+
+#: includes/admin/widgets/class-uwa-widget-expired-auctions.php:26
+msgid "Display a list of Expired Auctions from your store."
+msgstr "Laat een lijst met verkochte veilingen zien."
+
+#: includes/admin/widgets/class-uwa-widget-expired-auctions.php:28
+msgid "UWA Expired Auctions"
+msgstr "UWA Verkochte Veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-expired-auctions.php:112
+msgid "Expired Auction not found"
+msgstr "Verlopen veiling niet gevonden"
+
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:26
+msgid "Display a list of Latest Auctions from your store."
+msgstr "Laat een lijst met de laatste veilingen zien"
+
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:28
+msgid "UWA Latest Auctions"
+msgstr "UWA Laatste veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:70
+msgid "Latest Auctions"
+msgstr "Laatste veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-latest-auctions.php:123
+msgid "Latest auctions not found"
+msgstr "Laatste veilingen niet gevonden"
+
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:25
+msgid "Display a list of Live Auctions from your store."
+msgstr "Laat een lijst zien met Live Veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:27
+msgid "UWA Live Auctions"
+msgstr "UWA Live veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:70
+#: includes/admin/uwa_manage_auctions.php:515
+#: includes/admin/uwa_manage_user_auctions.php:542
+#: ultimate-woocommerce-auction-pro.php:430
+msgid "Live Auctions"
+msgstr "Live Veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-live-auctions.php:116
+msgid "Live auction not found"
+msgstr "Live veiling niet gevonden"
+
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:26
+msgid "Display a list of auctions user had bid."
+msgstr "Laat een lijst met veilingen zien waarop de gebruiker heeft geboden."
+
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:28
+msgid "UWA My Auctions"
+msgstr "UWA Mijn Veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:136
+msgid "My Auction not found"
+msgstr "Mijn veiling niet gevonden"
+
+#: includes/admin/widgets/class-uwa-widget-my-aucution.php:193
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:181
+msgid "Hide timer"
+msgstr "Verberg de timer"
+
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:26
+msgid "Display a list of Recently View Auctions from your store."
+msgstr "Laat een lijst zien met recent bekeken veilingen."
+
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:28
+msgid "UWA Recently View Auctions"
+msgstr "UWA Recent bekeken veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:77
+msgid "Recently View Auctions"
+msgstr "Recent bekeken veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-recently-view-auctions.php:128
+msgid "Recently View Auctions not found"
+msgstr "Recent bekeken veilingen niet gevonden"
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:26
+msgid "Display a list of Scheduled Auctions from your store."
+msgstr "Laat een lijst met geplande veilingen zien."
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:28
+msgid "UWA Scheduled Auctions"
+msgstr "UWA Geplande veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:73
+msgid "Scheduled Auctions"
+msgstr "Geplande veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:118
+msgid "Scheduled auction not found"
+msgstr "Geplande veiling is niet gevonden"
+
+#: includes/admin/email/class-uwa-email-auction-bid-admin.php:26
+msgid "Ultimate Auction ​Bid Place - Admin"
+msgstr "Ultimate Auction ​Bod geplaatst - Admin"
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid.php:27
+msgid "Ultimate Auction Overbid - Bidder"
+msgstr "Ultimate Auction Overboden - Bieder"
+
+#: includes/admin/email/class-uwa-email-auction-bid-overbid-admin.php:27
+msgid "Ultimate Auction Overbid - Admin"
+msgstr "Ultimate Auction Overboden - Admin"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:22
+msgid "Auction Ending soon reminder"
+msgstr "Veiling eindigt binnenkort herinnering "
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:24
+msgid "Email ​Can be sent to the bidders to reminder auction is ending soon."
+msgstr ""
+"Deze mail kan verzonden worden naar alle bieders als herinnering voor dat de "
+"veiling binnenkort af loopt."
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:26
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:27
+msgid "Auction Ending soon on {site_title}"
+msgstr "Veiling eindigt binnenkort op {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-place-bid.php:26
+msgid "Ultimate Auction ​Bid Place - Bidder"
+msgstr ""
+"Ultimate Auction ​Bod geplaatst - Bieder\n"
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:25
+msgid "Ultimate Auction Remind - Payment"
+msgstr "Ultimate Auction Betaalherinnering"
+
+#: includes/admin/email/class-uwa-email-auction-winner.php:25
+msgid "Ultimate Auction Won - Bidder"
+msgstr "Ultimate Auction Gewonnen - Bieder"
+
+#: includes/admin/email/class-uwa-email-auction-winner-admin.php:26
+msgid "Ultimate Auction Won - Admin"
+msgstr "Ultimate Auction Gewonnen - Admin"
+
+#: includes/admin/email/class-uwa-email-private-msg.php:27
+msgid "Ultimate Auction - Private Message"
+msgstr "Ultimate Auction - Privé bericht"
+
+#: includes/admin/uwa_manage_auctions.php:226
+#: includes/admin/uwa_manage_user_auctions.php:199
+#: includes/uwa-misc-functions.php:307
+msgid "See more"
+msgstr "Meer laten zien"
+
+#: includes/admin/uwa_manage_auctions.php:213
+#: includes/admin/uwa_manage_user_auctions.php:213
+#: includes/admin/class-uwa-admin.php:1064
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:
+msgid "No Bid"
+msgstr "Geen bod"
+
+#: includes/admin/uwa_manage_auctions.php:217
+#: includes/admin/uwa_manage_user_auctions.php:217
+#: includes/admin/class-uwa-admin.php:1069
+msgid "Reserve Not Met"
+msgstr "Reserveprijs niet gehaald"
+
+#: includes/admin/uwa_manage_auctions.php:220
+#: includes/admin/uwa_manage_user_auctions.php:220
+#: includes/admin/class-uwa-admin.php:1060
+msgid "Sold"
+msgstr "Verkocht"
+
+#: includes/admin/uwa_manage_auctions.php:223
+#: includes/admin/uwa_manage_user_auctions.php:223
+#: includes/admin/class-uwa-admin.php:1073
+msgid "Won"
+msgstr "Gewonnen"
+
+#: includes/admin/uwa_manage_auctions.php:231
+#: includes/admin/uwa_manage_user_auctions.php:232
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/admin/uwa_manage_auctions.php:232
+#: includes/admin/uwa_manage_user_auctions.php:233
+#: includes/admin/class-uwa-admin.php:313
+msgid "End Now"
+msgstr "Beëindig nu"
+
+#: includes/admin/uwa_manage_auctions.php:243
+#: includes/admin/uwa_manage_user_auctions.php:242
+#: includes/admin/class-uwa-admin.php:277
+msgid "Relist"
+msgstr "Opnieuw aanbieden"
+
+#: includes/admin/uwa_manage_auctions.php:250
+#: includes/admin/uwa_manage_user_auctions.php:247
+#: includes/admin/class-uwa-admin.php:307
+msgid "Make It Live"
+msgstr "Zet de veiling Live"
+
+#: includes/admin/uwa_manage_auctions.php:286
+#: includes/admin/uwa_manage_user_auctions.php:283
+msgid "Expiry Reason"
+msgstr "Reden van verlopen"
+
+#: includes/admin/uwa_manage_auctions.php:294
+#: includes/admin/uwa_manage_user_auctions.php:291
+msgid "Starting Date"
+msgstr "Startdatum"
+
+#: includes/admin/uwa_manage_auctions.php:482
+msgid "Your Auctions"
+msgstr "Uw veilingen"
+
+#: includes/admin/uwa_manage_auctions.php:485
+msgid "User Auctions"
+msgstr "Gebruikersveilingen"
+
+#: includes/admin/uwa_manage_auctions.php:519
+msgid "Scheduled Auction"
+msgstr "Geplande Veiling"
+
+#: includes/admin/uwa_manage_user_auctions.php:490
+msgid "Select Auction Author"
+msgstr "Selecteer Veiling Schrijver"
+
+#: includes/admin/uwa_manage_user_auctions.php:515
+msgid "Show auctions"
+msgstr "Laat veilingen zien"
+
+#: includes/class-uwa-bid.php:65
+msgid "Sorry, the auction for &quot;%s&quot; has not started yet"
+msgstr "Sorry, de veiling van &quot;%s&quot; is nog niet gestart"
+
+#: includes/class-uwa-bid.php:82
+msgid "Bid Value must less than %s !"
+msgstr "Biedwaarde moet lager zijn %s !"
+
+#: includes/class-uwa-bid.php:176
+msgid ""
+"Please enter a bid value for &quot;%s&quot; greater than the current bid. "
+"Your bid must be at least %s "
+msgstr ""
+"Vult u alstublieft een bod in voor &quot;%s&quot; dat hoger is dan het "
+"huidige bod. Uw bod moet minimaal %s zijn"
+
+#: includes/class-uwa-bid.php:255
+msgid ""
+"Please enter a bid value for &quot;%s&quot; greater than the current bid"
+msgstr ""
+"Vult u alstublieft een bod in voor &quot;%s&quot; dat hoger is dan het "
+"huidige bod."
+
+#: includes/class-uwa-bid.php:261
+msgid "There was no bid Placed."
+msgstr "Er is geen bod geplaatst."
+
+#: includes/class-uwa-bid.php:282
+msgid "Your bid is smaller for &quot;%s&quot;.Your bid must be at least %s "
+msgstr "Uw bod is lager dan &quot;%s&quot;. Uw bod moet minimaal %s  zijn"
+
+#: includes/class-uwa-bid.php:305
+msgid "Your bid is greater for &quot;%s&quot;.Your bid must be at least %s"
+msgstr "Uw bod is hoger dan &quot;%s&quot;. Uw bod moet minimaal %s zijn"
+
+#: includes/class-uwa-bid.php:322
+msgid "There was no bid"
+msgstr "Er is geen bod"
+
+#: includes/class-uwa-product.php:698
+msgid "Pending"
+msgstr "In afwachting van"
+
+#: includes/class-uwa-front.php:80 includes/admin/class-uwa-admin.php:60
+msgid "Normal"
+msgstr "Normaal"
+
+#: includes/class-uwa-front.php:80 includes/admin/class-uwa-admin.php:60
+msgid "Reverse"
+msgstr "Omgekeerd"
+
+#: includes/class-uwa-front.php:291 includes/class-uwa-front.php:295
+msgid "Losing!"
+msgstr "Overboden!"
+
+#: includes/class-uwa-front.php:409
+msgid "Thank you for Contact."
+msgstr "Dank voor uw contactmoment."
+
+#: includes/class-uwa-front.php:1058 includes/uwa-misc-functions.php:185
+msgid "Sort by current bid: Low to high"
+msgstr "Sorteer de veilingen op huidige bod: van laag naar hoog"
+
+#: includes/class-uwa-front.php:1059 includes/uwa-misc-functions.php:186
+msgid "Sort by current bid: High to low"
+msgstr "Sorteer de veilingen op huidige bod: van hoog naar laag"
+
+#: includes/class-uwa-front.php:1060 includes/uwa-misc-functions.php:187
+msgid "Sort auction by Ending Soon"
+msgstr "Sorteer de veilingen op Eindigt binnenkort"
+
+#: includes/class-uwa-front.php:1061 includes/uwa-misc-functions.php:188
+msgid "Sort auction by Just started"
+msgstr "Sorteer de veilingen op net begonnen"
+
+#: includes/class-uwa-front.php:1062 includes/uwa-misc-functions.php:189
+msgid "Sort auction by Most Active"
+msgstr "Sorteer de veilingen op meest actief"
+
+#: includes/uwa-misc-functions.php:96
+msgid ""
+"Your bid has been placed successfully but you have been outbid for &quot;"
+"%s&quot;!"
+msgstr ""
+"Uw bod is succesvol geplaatst, maar u bent overboden voor &quot;%s&quot;!"
+
+#: includes/uwa-misc-functions.php:183
+msgid "Sort by buynow price: low to high"
+msgstr "Sorteer de veilingen op koop nu prijs: van laag naar hoog"
+
+#: includes/uwa-misc-functions.php:184
+msgid "Sort by buynow price: high to low"
+msgstr "Sorteer de veilingen op koop nu prijs: van hoog naar laag"
+
+#: includes/uwa-misc-functions.php:303
+msgid "See less."
+msgstr "Minder laten zien."
+
+#: includes/uwa-misc-functions.php:378
+msgid "This auction  has expired"
+msgstr "Deze veiling is verkocht"
+
+#: includes/uwa-misc-functions.php:384
+msgid "Sorry, the auction has not started yet"
+msgstr "Sorry, de veiling is nog niet gestart"
+
+#: includes/uwa-misc-functions.php:390
+msgid "You cannot place a bid because the product is out of stock."
+msgstr "U kunt geen bod plaatsen, omdat het product niet op voorraad is."
+
+#: includes/uwa-misc-functions.php:418
+msgid "Please enter a bid value  greater than the current bid"
+msgstr "Vult u alstublieft een bod in dat hoger is dan het huidige bod"
+
+#: includes/uwa-misc-functions.php:433
+msgid "Your Bid Placed Successfully"
+msgstr "Uw bod is succesvol geplaatst"
+
+#: includes/uwa-misc-functions.php:761 includes/uwa-misc-functions.php:767
+#: includes/uwa-misc-functions.php:774 includes/uwa-misc-functions.php:791
+msgid "No bids available yet."
+msgstr "Er zijn geen biedingen beschikbaar op dit moment"
+
+#: includes/uwa-misc-functions.php:791
+msgid "Go shop"
+msgstr "Ga naar de winkel"
+
+#: includes/uwa-misc-functions.php:910
+msgid "No auctions in watchlist"
+msgstr "Geen veiling(en) in de volglijst"
+
+#: includes/admin/class-uwa-admin.php:121
+msgid "Ultimate Woo Auction"
+msgstr "Ultimate Woo Auction"
+
+#: includes/admin/class-uwa-admin.php:121
+msgid "Ultimate <br> Woo Auction Pro"
+msgstr "Ultimate <br> Woo Auction Pro"
+
+#: includes/admin/class-uwa-admin.php:125
+msgid "Manage Auctions"
+msgstr "Beheer veilingen"
+
+#: includes/admin/class-uwa-admin.php:127
+msgid "Import Utility"
+msgstr "Importtool"
+
+#: includes/admin/class-uwa-admin.php:137
+#: includes/admin/class-uwa-admin.php:285
+msgid "Auction"
+msgstr "Veiling"
+
+#: includes/admin/class-uwa-admin.php:161 includes/admin/uwa_bids_lists.php:153
+#: includes/admin/uwa_users_bids_lists.php:158
+msgid "Auction type"
+msgstr "Veiling type"
+
+#: includes/admin/class-uwa-admin.php:191
+msgid "Enable Silent-Bid"
+msgstr "Activeer \"Stil bod\""
+
+#: includes/admin/class-uwa-admin.php:246
+#: includes/admin/class-uwa-admin.php:284
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: includes/admin/class-uwa-admin.php:248
+#: includes/admin/class-uwa-admin.php:286
+msgid "Set the Start date of Auction Product."
+msgstr "Zet de startdatum van een veiling."
+
+#: includes/admin/class-uwa-admin.php:941
+msgid "Auction Already Live."
+msgstr "Deze veilig is al live."
+
+#: includes/admin/class-uwa-admin.php:945
+msgid "Auction Live successfully"
+msgstr "Veilig Live was succesvol"
+
+#: includes/admin/class-uwa-admin.php:1052
+msgid "Scheduled"
+msgstr "Gepland"
+
+#: includes/admin/class-uwa-admin.php:1053
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:75
+msgid "Not Started"
+msgstr "Niet gestart"
+
+#: includes/admin/class-uwa-admin.php:1151
+msgid "Failed Relist"
+msgstr "Opnieuw aanbieden mislukt"
+
+#: includes/admin/class-uwa-admin.php:1173
+msgid "Auction Expired without reserve price met"
+msgstr "Veiling is verlopen zonder dat de reserveprijs is behaald"
+
+#: includes/admin/uwa_general_setting_tab.php:407
+msgid "Relist Options"
+msgstr "Opnieuw aanbieden opties"
+
+#: includes/admin/uwa_general_setting_tab.php:412
+msgid "Start auction from beginning"
+msgstr "Begin de veiling opnieuw vanaf het begin"
+
+#: includes/admin/uwa_general_setting_tab.php:413
+msgid ""
+"When you select this option then all bids are deleted and auction starts "
+"from beginning."
+msgstr ""
+"Als u deze optie selecteer worden alle biedingen verwijderd en start de "
+"veiling vanaf het begin."
+
+#: includes/admin/uwa_general_setting_tab.php:414
+msgid "Start auction from where it ended."
+msgstr "Begin de veiling vanaf het punt dat de veiling eindigde."
+
+#: includes/admin/uwa_general_setting_tab.php:416
+msgid ""
+"When you select this option then auction starts from where it had ended."
+msgstr ""
+"Als u deze optie selecteert dan start de veiling vanaf het moment dat de "
+"veiling eindigde."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:27
+msgid "Ultimate Auction - Relist"
+msgstr "Ultimate Auction - Opnieuw aanbieden"
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:30
+msgid "Email can be send to admin when auction is relisted"
+msgstr ""
+"E-mail kan verstuurd worden aan de administrator als een veiling opnieuw "
+"wordt aangeboden"
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:32
+#: includes/admin/email/class-uwa-email-auction-relist.php:33
+msgid "Auction is relisted from  {site_title}"
+msgstr "Veiling is heropend van {site_title}"
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:162
+msgid "Auction is expired without any bids"
+msgstr "Veiling is verlopen zonder biedingen"
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:163
+msgid "Auction is expired without reaching reserve price"
+msgstr "De veiling is verlopen zonder het behalen van de reserveprijs."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:164
+msgid "Auction is expired because user is not paid"
+msgstr "De veiling is verlopen, omdat de gebruiker niet betaald is."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:175
+msgid "Enabled for Admin."
+msgstr "Geactiveerd voor Admin."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:177
+msgid "Send email notification to admin when auction is relisted"
+msgstr ""
+"Verstuur een e-mailmelding aan de administrator als een veiling opnieuw "
+"wordt aangeboden"
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:182
+msgid "Enabled for Bidder."
+msgstr "Geactiveerd voor de bieder."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:184
+msgid ""
+"Send email notification all participate(bidders) when auction is relisted."
+msgstr ""
+"Verstuur een e-mailmelding aan alle bieders als de veiling opnieuw wordt "
+"aangeboden."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:190
+msgid ""
+"Enter the subject of the email that is sent to the admin when auction is "
+"relisted. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de "
+"administrator als een veiling opnieuw wordt aangeboden. Laat leeg om de "
+"standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:199
+msgid ""
+"Enter the heading of the email that is sent to the admin when auction is "
+"relisted. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de "
+"administrator als een veiling opnieuw wordt aangeboden.  Laat leeg om de "
+"standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/class-uwa-front.php:458
+msgid ""
+"<span class=\"watchlist-error\">Please sign in to add auction to watchlist. "
+"</span><a href=\"%s\" class=\"button watchlist-error\">Login &rarr;</a>"
+msgstr ""
+"<span class=\"watchlist-error\">Logt u alstublieft in om een veiling toe te "
+"voegen aan uw volglijst. </span><a href=\"%s\" class=\"button watchlist-"
+"error\">Login &rarr;</a>"
+
+#: templates/woocommerce/emails/auction-private-msg.php:30
+msgid "Bidder Sent Private Message for Auction <a href=\"%s\">%s</a>."
+msgstr ""
+"Een bieder heeft een privé bericht gestuurd voor veiling <a href=\"%s\">"
+"%s</a>."
+
+#: templates/woocommerce/emails/auction-relist.php:38
+msgid ""
+"The auction product for <a href=\"%s\">%s</a> has been relisted. <br>Reason "
+"to Relist: %s "
+msgstr ""
+"De veiling van <a href=\"%s\">%s</a> is opnieuw aangeboden. <br>De reden van "
+"opnieuw aanbieden is : %s "
+
+#: templates/woocommerce/emails/auction-remind-to-pay.php:30
+#: templates/woocommerce/emails/auction-winner.php:30
+#: templates/woocommerce/emails/plain/auction-remind-to-pay.php:30
+#: templates/woocommerce/emails/plain/auction-winner.php:30
+msgid ""
+"Congratulations! You are the winner! of the auction product <a href=\"%s\">"
+"%s</a>."
+msgstr "Gefeliciteerd! U bent de winnaar van veiling <a href=\"%s\">%s</a>."
+
+#: templates/woocommerce/emails/ending-soon-bidder.php:28
+msgid ""
+"Auction <a href=\"%s\">%s</a> is going to be expire at %s. Current bid is %s"
+msgstr ""
+"Veiling <a href=\"%s\">%s</a> zal gaan verlopen op %s. Het hoogste bod is nu "
+"%s"
+
+#: templates/woocommerce/emails/placed-bid.php:27
+#: templates/woocommerce/emails/plain/placed-bid.php:26
+msgid "You recently placed a bid on <a href=\"%s\">%s</a>."
+msgstr "U heeft recent een bod geplaatst op <a href=\"%s\">%s</a>."
+
+#: templates/woocommerce/emails/placed-bid-admin.php:25
+#: templates/woocommerce/emails/plain/placed-bid-admin.php:25
+msgid "A bid was placed on <a href=\"%s\">%s</a>."
+msgstr "Er is een bod geplaatst op <a href=\"%s\">%s</a>."
+
+#: templates/woocommerce/emails/plain/auction-winner.php:34
+msgid "Please, proceed to checkout ,<a href=\"%s\">%s</a>."
+msgstr "Alstublieft, gaat u door naar Afrekenen,<a href=\"%s\">%s</a>."
+
+#: templates/woocommerce/emails/bid-outbided.php:30
+#: templates/woocommerce/emails/plain/bid-outbided.php:25
+msgid "You have been outbid on the product <a href=\"%s\">%s</a>."
+msgstr "U bent overboden op veiling <a href=\"%s\">%s</a>."
+
+#: templates/woocommerce/emails/plain/bid-outbided.php:29
+msgid "If you want to bid a new amount, click here <a href=\"%s\">%s</a>."
+msgstr ""
+"Als u een nieuw bod uit wil brengen, klik dan hier <a href=\"%s\">%s</a>."
+
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:28
+msgid "Auction <a href=\"%s\">%s</a> is going to be expire at %s."
+msgstr "Veiling <a href=\"%s\">%s</a> zal gaan verlopen op %s."
+
+#: includes/class-uwa-product.php:567
+msgid "<span class=\"woo-ua-sold-for sold_for\">Sold for</span>: "
+msgstr "<span class=\"woo-ua-sold-for sold_for\">Verkocht voor</span>: "
+
+#: includes/class-uwa-product.php:575
+msgid ""
+"<span class=\"woo-ua-winned-for reserve_not_met\">Reserve price Not met!"
+"</span> "
+msgstr "Reserveprijs is niet gehaald!"
+
+#: includes/class-uwa-product.php:578
+msgid "<span class=\"woo-ua-winned-for winning_bid\">Winning Bid</span>: "
+msgstr "<span class=\"woo-ua-winned-for winning_bid\">Winnend Bod</span>: "
+
+#: includes/class-uwa-product.php:582
+msgid "<span class=\"woo-ua-winned-for expired\">Auction Expired</span> "
+msgstr "<span class=\"woo-ua-winned-for expired\">Veiling is afgelopen</span> "
+
+#: includes/class-uwa-product.php:590
+msgid "<span class=\"woo-ua-starting auction\">Starting bid</span>: "
+msgstr "<span class=\"woo-ua-starting auction\">Startbod</span>: "
+
+#: includes/class-uwa-product.php:595
+msgid "<span class=\"current auction\">This auction is silent bid.</span> "
+msgstr ""
+"<span class=\"current auction\">Deze veiling is een zogenaamde stille "
+"bieding.</span> "
+
+#: includes/class-uwa-product.php:599
+msgid "<span class=\"woo-ua-current auction\">Starting bid</span>: "
+msgstr "<span class=\"woo-ua-current auction\">Startbod</span>: "
+
+#: includes/class-uwa-product.php:601
+msgid "<span class=\"woo-ua-current auction\">Current bid</span>: "
+msgstr "<span class=\"woo-ua-current auction\">Huidige bod</span>: "
+
+#: includes/class-uwa-bid.php:48
+msgid ""
+"Please Login/Register in to place your bid or buy the product. <a "
+"href=\"%s\" class=\"button\" target="\_blank\">Login/Register &rarr;</a>"
+msgstr ""
+"Logt u alstublieft in of registreert u zichzelf eerst voordat u en bod kunt "
+"uitbrengen op deze veiling.  <a href=\"%s\" class=\"button\">"
+"Login/Registreer &rarr;</a>"
+
+#: includes/admin/uwa_general_setting.php:19
+#: includes/admin/uwa_manage_auctions.php:473
+msgid ""
+"If you like <a href=\"https://wordpress.org/support/plugin/ultimate-"
+"woocommerce-auction/reviews?rate=5#new-post\" target=\"_blank\"> our plugin "
+"working </a> with WooCommerce, please leave us a <a href=\"https://wordpress."
+"org/support/plugin/ultimate-woocommerce-auction/reviews?rate=5#new-post\" "
+"target=\"_blank\">★★★★★</a> rating. A huge thanks in advance!"
+msgstr ""
+"Als u het prettig vind dat <a href=\"https://wordpress."
+"org/support/plugin/ultimate-woocommerce-auction/reviews?rate=5#new-post\" "
+"target=\"_blank\"> onze plugin samenwerkt  </a> met WooCommerce, geeft u ons "
+"dan een  <a href=\"https://wordpress.org/support/plugin/ultimate-woocommerce-"
+"auction/reviews?rate=5#new-post\" target=\"_blank\">★★★★★</a> waardering. "
+"Bij voorbaat dank!"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:22
+msgid "Ultimate Auction - Ending Soon"
+msgstr "Ultimate Auction - Eindigt binnenkort"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:151
+msgid "Enabled for all Bidders those have bid on auction"
+msgstr ""
+"Geactiveerd voor alle bieders die een bod hebben uitgebracht op de veiling"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:153
+msgid "Send email to all Bidders"
+msgstr "Stuur een e-mail aan alle bieders"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:157
+msgid "Enabled for users who have auction in their watchlist"
+msgstr ""
+"Geactiveerd voor gebruikers die deze veiling in hun volglijst hebben staan"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:159
+msgid "Send email to users who has auction in their watchlist."
+msgstr ""
+"Verstuur een e-mail naar gebruikers die deze veiling in hun volglijst hebben "
+"staan."
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:164
+msgid "Mention time left for auction to close:"
+msgstr "Vermeld de resterende tijd voordat deze veiling eindigt:"
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:167
+msgid "Send reminder mail intervals in hour default is <code>%s</code>."
+msgstr "Zet de herinneringsinterval in uren, standaard is <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:181
+msgid ""
+"Enter the subject of the email that is sent to the bidders to reminder "
+"auction is ending soon."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan alle bieders "
+"als een veiling bijna verloopt. "
+
+#: includes/admin/email/class-uwa-email-auction-ending-soon-bidder.php:192
+msgid ""
+"Enter the Heading of the email that is sent to the bidders to reminder "
+"auction is ending soon."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de bieders als "
+"een veiling binnenkort verloopt."
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:25
+msgid "Ultimate Auction - Payment Reminder"
+msgstr "Ultimate Auction - Betaalherinnering"
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:27
+msgid "Email ​Can be sent to the bidder after winning an auction"
+msgstr ""
+"E-mail kan worden verzonden aan de bieder na het winnen van een veiling"
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:133
+msgid "Interval in Days."
+msgstr "Interval in dagen."
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:136
+msgid "Set reminder interval in days default is <code>%s</code>."
+msgstr "Zet de herinneringsinterval in dagen, standaard is <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:141
+msgid "Number of reminder mail."
+msgstr "Aantal herinneringsmails"
+
+#: includes/admin/email/class-uwa-email-auction-remind-to-pay.php:144
+msgid ""
+"if sent numbers of mail stop mail to remind. default is <code>%s</code>."
+msgstr ""
+"als het aantal mails hoger is dan ingevuld dan stop met mailen.  Standaard "
+"is <code>%s</code>."
+
+#: includes/class-uwa-bid.php:281
+msgid "Your bid is greater for &quot;%s&quot;.Your bid must be at least %s "
+msgstr "Uw bod is hoger dan &quot;%s&quot;. Uw bod moet minimaal %s zijn"
+
+#: include/uwa-misc-functions.php:624
+msgid "UTC+"
+msgstr "UTC+"
+
+#: templates/woocommerce/single-product/uwa-bid.php:65
+msgid "More Details"
+msgstr "Meer details"
+
+#: ultimate-woocommerce-auction-pro.php:69
+msgid "Ultimate WooCommerce Auction Pro License Options"
+msgstr "Ultimate WooCommerce Auction Pro Licentie opties"
+
+#: ultimate-woocommerce-auction-pro.php:81
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: ultimate-woocommerce-auction-pro.php:87
+msgid "Enter your license key"
+msgstr "Vul uw licentiecode in"
+
+#: ultimate-woocommerce-auction-pro.php:94
+msgid "Activate License"
+msgstr "Activeer uw licentie"
+
+#: ultimate-woocommerce-auction-pro.php:99
+msgid "active"
+msgstr "actief"
+
+#: ultimate-woocommerce-auction-pro.php:103
+msgid "Deactivate License"
+msgstr "Deactiveer de licentie"
+
+#: ultimate-woocommerce-auction-pro.php:412
+msgid "All Auctions"
+msgstr "Alle veilingen"
+
+#: ultimate-woocommerce-auction-pro.php:466
+msgid "Pending Auctions"
+msgstr "Afwachtende veilingen"
+
+#: ultimate-woocommerce-auction-pro.php:547
+msgid "This product is not Auction"
+msgstr "Dit product is geen veiling"
+
+#: ultimate-woocommerce-auction-pro.php:702
+msgid "Your Ultimate WooCommerce Auction Pro is almost ready!"
+msgstr "Uw Ultimate WooCommerce Auction Pro is bijna klaar!"
+
+#: ultimate-woocommerce-auction-pro.php:708
+msgid "Dismiss this notice"
+msgstr "Wijs deze kennisgeving af"
+
+#: ultimate-woocommerce-auction-pro.php:712
+msgid ""
+"You just need to activate the <strong>%s</strong> to make it functional."
+msgstr ""
+"U moet alleen nog de <strong>%s</strong> activeren om dit functioneel te "
+"maken."
+
+#: ultimate-woocommerce-auction-pro.php:718
+msgid "Activate this plugin"
+msgstr "Activeer deze plugin"
+
+#: ultimate-woocommerce-auction-pro.php:718
+msgid "Activate"
+msgstr "Activeren"
+
+#: ultimate-woocommerce-auction-pro.php:721
+msgid "You just need to install the %sCore Plugin%s to make it functional."
+msgstr "U moet nog de %sCore Plugin%s installeren om dit werkend te krijgen."
+
+#: templates/woocommerce/single-product/uwa-bid.php:57
+msgid "This auction is silent-bid."
+msgstr "Deze veiling is een zogenaamde \"stille veiling\"."
+
+#: includes/admin/email/class-uwa-email-auction-relist.php:87
+msgid "Auction is expired because user have not paid amount"
+msgstr "De veiling is verlopen, omdat de gebruiker niet betaald heeft."
+
+#: includes/admin/uwa_general_setting_tab.php:566
+msgid "Place bid on behalf of first user if maximum bid of second user matches with first user."
+msgstr "Bied namens eerste gebruiker als maximum bod van tweede gebruiker overeenkomt met eerste gebruiker."
+
+#: includes/admin/uwa_general_setting_tab.php:568
+msgid "Disable the Buy It Now"
+msgstr "De-activeer de koop nu optie"
+
+#: includes/admin/uwa_general_setting_tab.php:573
+#: includes/admin/uwa_general_setting_tab.php:576
+msgid ""
+"Disable the Buy It Now option once bidding has reached the reserve price."
+msgstr "De-activeer de koop nu optie als de reserveprijs is behaald."
+
+#: includes/admin/uwa_general_setting_tab.php:363
+msgid ""
+"In reality, Silent auctions accept single bid from each user. You can check "
+"this field to allow single bid for each user."
+msgstr ""
+"In werkelijkheid accepteren stille veilingen één bod van elke gebruiker. U "
+"kunt dit veld aanvinken om één bod voor elke gebruiker toe te staan."
+
+#: includes/admin/uwa_general_setting_tab.php:366
+msgid "Restrict users to bid only one time."
+msgstr "Beperk gebruikers om maar 1 keer te bieden."
+
+#: includes/class-uwa-bid.php:110
+msgid "You have changed your maximum bid successfully to %s"
+msgstr "U heeft uw maximale bod succesvol gewijzigd in %s"
+
+#: templates/woocommerce/single-product/uwa-bid.php:275
+msgid "Do you really want to bid"
+msgstr "Weet u zeker dat u een bod wilt uitbrengen ?"
+
+#: templates/woocommerce/emails/plain/placed-bid.php:47
+msgid "Your maximum bid is  %s."
+msgstr "Uw maximale bod is  %s."
+
+#: includes/admin/email/class-uwa-email-auction-bid-delete.php:27
+msgid "Ultimate Auction - Bid Delete Notification"
+msgstr "Ultimate veiling - Bod verwijderd melding"
+
+#: includes/admin/email/class-uwa-email-auction-bid-delete.php:29
+msgid "Email is sent to Bidder to inform their bid has been deleted."
+msgstr ""
+"Email wordt verzonden aan de bieder om hem / haar te informeren dat zijn / "
+"haar bod verwijderd is."
+
+#: includes/admin/email/class-uwa-email-auction-bid-delete.php:31
+#: includes/admin/email/class-uwa-email-auction-bid-delete.php:32
+msgid "Your bid has been deleted on {site_title}"
+msgstr "Uw bod is verwijderd op {site_title}"
+
+#: templates/woocommerce/emails/bid-deleted.php:27
+#: templates/woocommerce/emails/plain/bid-deleted.php:28
+msgid "Hi %s,"
+msgstr "Hallo %s,"
+
+#: templates/woocommerce/emails/bid-deleted.php:28
+#: templates/woocommerce/emails/plain/bid-deleted.php:30
+msgid ""
+"You are receiving this email as auction owner has deleted your bid. Kindly "
+"contact admin/owner for further discussion."
+msgstr ""
+"U ontvangt deze e-mail omdat de veilingeigenaar uw bod heeft verwijderd. "
+"Neemt u contact op met de eigenaar voor verdere uitleg."
+
+#: templates/woocommerce/emails/bid-deleted.php:36
+msgid "Deleted Bid"
+msgstr "Verwijderd bod"
+
+#: templates/woocommerce/emails/plain/bid-deleted.php:40
+msgid "Product : %s"
+msgstr "Veiling : %s"
+
+#: templates/woocommerce/emails/plain/bid-deleted.php:42
+msgid "Deleted Bid : %s"
+msgstr "Verwijderd Bod : %s"
+
+#: includes/class-uwa-bid.php:115
+msgid "New maximum bid cannot be smaller than old maximum bid."
+msgstr "Uw nieuwe maximale bod kan niet lager zijn dan uw oude maximale bod."
+
+#: includes/class-uwa-bid.php:115
+msgid ""
+"Your amount matches with maximum bidding amount of an user. Kindly check new "
+"bid and enter more value."
+msgstr ""
+"Uw bod is gelijk aan het maximum bod van een gebruiker. Vul een hoger bod in."
+
+#: includes/admin/uwa_general_setting_tab.php:582
+msgid "Enable an alert box."
+msgstr "Activeer een waarschuwingsscherm"
+
+#: includes/admin/uwa_general_setting_tab.php:588
+msgid ""
+"This setting lets you enable an alert confirmation which is shown to user "
+"when they place a bid."
+msgstr ""
+"Deze setting zorgt ervoor dat er een extra bevestigingsscherm wordt "
+"weergegeven aan een gebruiker zodra hij / zij een bod plaatst."
+
+#: includes/admin/uwa_general_setting_tab.php:591
+msgid "Enable an alert box for confirmation when user places a bid."
+msgstr "Activeer een bevestigingsscherm als een gebruiker een bod plaatst."
+
+#: includes/admin/uwa_general_setting_tab.php:432
+msgid ""
+"Proxy Bidding is by default enabled for all bidding amounts but you can "
+"disable proxy bidding for bidding amount which are less than reserve price. "
+"This setting will help administrator who wants to have simple bidding before "
+"reserve price is reached."
+msgstr ""
+"Proxy bieding / automatisch bieden is standaard geactiveerd voor alle "
+"bedragen, maar u kunt proxy biedingen de-activeren voor bedragen lager dan "
+"de reserveprijs. Deze setting zal de administrator helpen om \"simpel\" "
+"bieden af te dwingen tot dat de reserveprijs is behaald."
+
+#: includes/admin/uwa_general_setting_tab.php:435
+msgid "Disable Proxy Bidding to happen for amount less than Reserve Price too."
+msgstr ""
+"De-activeer \"Proxy Bidding\" als het bod lager is dan de reserveprijs."
+
+#: includes/uwa-misc-functions.php:103
+msgid "Your bid of %s has been placed successfully."
+msgstr "Uw bod van %s  is succesvol geplaatst."
+
+#: includes/uwa-misc-functions.php:103
+msgid "Your bid has been placed successfully."
+msgstr "Uw bod is succesvol geplaatst."
+
+#: includes/admin/email/class-uwa-email-private-msg.php:229
+msgid ""
+"Enter the subject of the email that is sent to the auction owner when bidder "
+"send private message. Leave blank to use the default subject: <code>%s</code>"
+"."
+msgstr ""
+"Vul het onderwerp  in van de mail die verstuurd zal worden aan de "
+"veilingeigenaar als een bieder een privé bericht heeft verstuurd. Laat leeg "
+"om de standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-private-msg.php:229
+msgid ""
+"Enter the heading of the email that is sent to the auction owner when bidder "
+"send private message. Leave blank to use the default heading: <code>%s</code>"
+"."
+msgstr ""
+"Vul de hoofdtitel in van de mail die verstuurd zal worden aan de "
+"veilingeigenaar als een bieder een privë bericht heeft gestuurd. Laat leeg "
+"om de standaard hoofdtitel te gebruiken <code>%s</code>."
+
+#: includes/admin/email/class-uwa-email-private-msg.php:229
+msgid ""
+"Enter recipients (comma separated) for this email. For Seller(Vendor) you "
+"can use {seller}. Defaults to <code>%s</code>."
+msgstr ""
+"Vul ontvanger (gescheiden door komma's) in voor deze mail. Voor verkoper "
+"kunt u {seller}  gebruiken. Standaard wordt de mail verstuurd aan <code>"
+"%s</code>."
+
+#: includes/class-uwa-bid.php:269
+msgid "Please enter a bid value for &quot;%s&quot; less than the current bid"
+msgstr ""
+"Vult u alstublieft een bod in voor &quot;%s&quot; dat lager is dan het "
+"huidige bod."
+
+#: includes/class-uwa-bid.php:327
+msgid "Your bid is same as your previous bid %s, Please enter higher bid."
+msgstr ""
+"Uw bod is gelijk aan uw vorige bod %s. Vul alstublieft een hoger bod in."
+
+#: includes/class-uwa-bid.php:332
+msgid "Your bid is lower than your previous bid %s, Please enter higher bid."
+msgstr ""
+"Uw bod is lager dan uw vorige bod %s. Vul alstublieft een hoger bod in."
+
+#: includes/class-uwa-bid.php:370
+msgid "Your bid is same as your previous bid %s, Please enter lower bid."
+msgstr ""
+"Uw bod is gelijk aan uw vorige bod %s. Vul alstublieft een lager bod in."
+
+#: includes/class-uwa-bid.php:375
+msgid "Your bid is higher than your previous bid %s, Please enter lower bid."
+msgstr ""
+"Uw bod is hoger dan uw vorige bod %s. Vul alstublieft een lager bod in."
+
+#: includes/admin/uwa_general_setting_tab.php:303
+msgid "Simple Auction Settings"
+msgstr "Instellingen voor simpele veilingen"
+
+#: includes/admin/uwa_general_setting_tab.php:311
+msgid ""
+"if you enable Mask Username for simple bidding username will add ****** and "
+"not display full Username public "
+msgstr ""
+"als u Maskeer Gebruikesnaam activeer voor simpele biedingen, de "
+"gebruikersnaam zal worden vervangen door ****** en niet de volledige "
+"gebruikersnaam"
+
+#: includes/admin/uwa_manage_auctions.php:570
+#: includes/admin/uwa_manage_user_auctions.php:599
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:73
+#: ultimate-woocommerce-auction-pro.php:427
+msgid "Future Auctions"
+msgstr "Toekomstige veilingen"
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:26
+msgid "Display a list of Future Auctions from your store."
+msgstr "Laat een lijst met toekomstige veilingen zien."
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:28
+msgid "UWA Future Auctions"
+msgstr "UWA Toekomstige Veilingen"
+
+#: includes/class-uwa-product.php:750 includes/admin/class-uwa-admin.php:1398
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:74
+msgid "Future"
+msgstr "Toekomst"
+
+#: includes/admin/widgets/class-uwa-widget-scheduled-auctions.php:118
+msgid "Future auction not found"
+msgstr "Toekomstige veiling(en) niet gevonden"
+
+#: includes/admin/uwa_general_setting_tab.php:297
+msgid "Enable Place Bidding"
+msgstr "Plaats bieden inschakelen"
+
+#: includes/admin/uwa_general_setting_tab.php:307
+msgid "Place bid instantly without page refresh"
+msgstr "Plaatst het bod direct zonder paginavernieuwing"
+
+#: includes/admin/uwa_general_setting_tab.php:571
+#: includes/admin/uwa_general_setting_tab.php:579
+msgid "Disable Product(item) Condition field."
+msgstr "De-activeer het veiling conditie veld: "
+
+#: includes/admin/uwa_general_setting_tab.php:576
+msgid ""
+"This setting lets you hide Product(item) Condition field which is shown to "
+"auction detail page."
+msgstr ""
+"Deze instelling zal het veilingconditie veld verbergen op de "
+"veilingdetailpagina."
+
+#: includes/admin/uwa_display_setting_tab.php:264
+msgid "Show On Shop Page"
+msgstr "Laat zien op de veilingpagina"
+
+#: includes/admin/uwa_display_setting_tab.php:268
+msgid "Enable/Disable countdown on Shop(Product loop) Page."
+msgstr "Activeer / de-activeer terugtelklok op de veilingpagina."
+
+#: includes/admin/uwa_auctions_add_products.php:22
+msgid "Add Auction Products:"
+msgstr "Voeg veilingproducten toe:"
+
+#: includes/admin/uwa_auctions_add_products.php:25
+msgid "Click here to Add Auction Product"
+msgstr "Klik hier om een veiling toe te voegen"
+
+#: templates/woocommerce/single-product/uwa-bid.php:392
+msgid "Please enter bid value"
+msgstr "Vult u alstublieft een bod in"
+
+#: templates/woocommerce/single-product/uwa-bid.php:386
+msgid "Please enter bid value greater than suggested bid"
+msgstr "Vult u alstublieft een bod in dat hoger is dan het voorgestelde bod"
+
+#: includes/class-uwa-bid.php:54 includes/class-uwa-bid.php:492
+msgid "You are not allow to place bid please contact to admin."
+msgstr ""
+"U bent niet bevoegd om een bod te plaatsen, neemt u alstublieft contact op "
+"met de beheerder."
+
+#: templates/woocommerce/emails/ending-soon-bidder.php:42
+#: templates/woocommerce/emails/plain/ending-soon-bidder.php:42
+msgid ""
+"Auction expired time is extended, You get new chance to place a bid and you "
+"may become Winner!!"
+msgstr ""
+"De eindtijd van de veiling is verlengd. U krijgt een nieuwe kans om een bod "
+"uit te brengen en mogelijk wordt u de Winnaar!!"
+
+#: includes/admin/class-uwa-admin.php:133
+msgid "Activation"
+msgstr "Activatie"
+
+#: includes/admin/class-uwa-admin.php:137
+msgid "Add Auction"
+msgstr "Veiling toevoegen"
+
+#: includes/admin/uwa_auctions_dashboard.php:15
+msgid "License Activation"
+msgstr "Licentie activatie"
+
+#: includes/admin/uwa_bids_lists.php:305
+msgid "Manage Bids"
+msgstr "Beheer Biedingen"
+
+#: includes/admin/uwa_bids_lists.php:90
+#: includes/admin/uwa_users_bids_lists.php:98
+#: includes/admin/uwa_manage_auctions.php:149
+#: includes/admin/uwa_manage_user_auctions.php:153
+msgid "Proxy"
+msgstr "Automatisch bieden"
+
+#: includes/admin/uwa_bids_lists.php:92
+#: includes/admin/uwa_users_bids_lists.php:100
+#: includes/admin/uwa_manage_auctions.php:151
+#: includes/admin/uwa_manage_user_auctions.php:155
+msgid "Silent"
+msgstr "Stil"
+
+#: includes/admin/uwa_bids_lists.php:94
+#: includes/admin/uwa_users_bids_lists.php:102
+#: includes/admin/uwa_manage_auctions.php:153
+#: includes/admin/uwa_manage_user_auctions.php:157
+msgid "Simple"
+msgstr "Simpel"
+
+#: includes/admin/uwa_bids_lists.php:154
+#: includes/admin/uwa_users_bids_lists.php:159
+#: includes/admin/uwa_manage_auctions.php:312
+msgid "Product Title"
+msgstr "Producttitel"
+
+#: includes/admin/uwa_bids_lists.php:156
+#: includes/admin/uwa_users_bids_lists.php:161
+msgid "Max Bid"
+msgstr "Maximale Bod"
+
+#: includes/admin/uwa_bids_lists.php:157
+#: includes/admin/uwa_users_bids_lists.php:162
+msgid "Winning Bid & User"
+msgstr "Winnende Bod & Gebruiker"
+
+#: includes/admin/uwa_bids_lists.php:322
+#: includes/admin/uwa_users_bids_lists.php:
+msgid "Your Bids"
+msgstr "Uw Biedingen."
+
+#: includes/admin/uwa_bids_lists.php:325
+msgid "User Bids"
+msgstr "Gebruikersbiedingen"
+
+#: includes/admin/uwa_bids_lists.php:355
+#: includes/admin/uwa_users_bids_lists.php:361
+msgid "Active Bids"
+msgstr "Actieve Biedingen"
+
+#: includes/admin/uwa_users_bids_lists.php:128
+#: includes/admin/class-uwa-admin.php:1251
+msgid "Delete"
+msgstr "Verwijder"
+
+#: includes/admin/uwa_users_bids_lists.php:134
+msgid "Remind to Pay"
+msgstr "Betaalherinnering"
+
+#: includes/admin/uwa_users_bids_lists.php:348
+msgid "All"
+msgstr "Alle"
+
+#: includes/admin/uwa_users_bids_lists.php:356
+msgid "Show Bids"
+msgstr "Biedingen "
+
+#: includes/admin/uwa_display_setting_tab.php:240
+msgid "Show Future Auctions."
+msgstr "Laat toekomstige veilingen zien."
+
+#: includes/admin/uwa_display_setting_tab.php:230
+msgid "Shop Page:"
+msgstr "Veilingpagina: "
+
+#: includes/admin/uwa_general_setting_tab.php:309
+msgid "Instant Bidding"
+msgstr "Direct Bieden"
+
+#: includes/admin/uwa_general_setting_tab.php:314
+msgid ""
+"This option will simulate instant bidding for users. You can keep it enable."
+msgstr ""
+"Deze optie zal direct bieden simuleren voor gebruikers. U kunt geactiveerd "
+"laten."
+
+#: includes/admin/uwa_general_setting_tab.php:319
+msgid "By enabling this setting, bids will be placed without page refresh."
+msgstr ""
+"Door deze instelling te activeren, zullen de biedingen worden geplaatst "
+"zonder dat de pagina vernieuwd wordt."
+
+#: includes/admin/uwa_general_setting_tab.php:333
+msgid ""
+"By enabling this setting, bid information will be polled every X second "
+"mentioned in below setting and bid information will be displayed without "
+"page refresh. This can be performance heavy operation on your server."
+msgstr ""
+"Als u deze instelling inschakelt, wordt biedingsinformatie elke X seconde "
+"opgevraagd zoals vermeld in de onderstaande instelling en wordt "
+"biedingsinformatie weergegeven zonder paginavernieuwing. Dit kan een zware "
+"belasting voor uw server zijn."
+
+#: includes/admin/uwa_general_setting_tab.php:336
+msgid "Get Bid amount information instantly without page refresh."
+msgstr "Ontvang biedingsinformatie direct zonder paginavernieuwing."
+
+#: includes/admin/uwa_general_setting_tab.php:344
+msgid "Check Bidding Information"
+msgstr "Bekijk de biedinformatie"
+
+#: includes/admin/uwa_general_setting_tab.php:349
+msgid ""
+"Time interval between two ajax requests in seconds (bigger intervals means "
+"less load on server)"
+msgstr ""
+"Tijdinterval tussen 2 ajax verzoeken in seconden (des te groter de "
+"intervallen hoe minder load op de server)"
+
+#: includes/admin/uwa_general_setting_tab.php:281
+#: includes/admin/uwa_general_setting_tab.php:352
+msgid "In every"
+msgstr "Elke"
+
+#: includes/admin/uwa_general_setting_tab.php:502
+msgid "Soft Close / Avoid Sniping"
+msgstr ""
+"Voorkom \"Sniping\". Sniping is het plaatsen van een bod in de laatste "
+"seconden van een veiling."
+
+#: includes/admin/uwa_general_setting_tab.php:507
+msgid ""
+"We provide two options. First option will keep extending auction if bid "
+"placed meet below timing. Second option will extend auction only once and "
+"will send email to all bidders intimating latest bid"
+msgstr ""
+"We stellen 2 opties beschikbaar. De eerste optie zal blijven verlengen als "
+"er geboden wordt in de aangegeven tijd. De tweede optie zal de veiling maar "
+"1 keer verlengen en een email naar alle bieders van de veiling."
+
+#: includes/admin/uwa_general_setting_tab.php:511
+msgid "Extend Auction in recursive manner"
+msgstr "Veiling uitbreiden op recursieve wijze"
+
+#: includes/admin/uwa_general_setting_tab.php:514
+msgid "Extend Auction only once"
+msgstr "Verleng de veiling alleen 1 keer"
+
+#: includes/admin/uwa_general_setting_tab.php:525
+msgid "Extend auction by following time:"
+msgstr "Verleng de veiling met de volgende tijd:"
+
+#: includes/admin/uwa_manage_auctions.php:166
+#: includes/admin/uwa_manage_user_auctions.php:170
+msgid "<strong>Start: </strong>"
+msgstr "<strong>Start: </strong>"
+
+#: includes/admin/uwa_manage_auctions.php:167
+#: includes/admin/uwa_manage_user_auctions.php:171
+msgid "<strong>End: </strong>"
+msgstr "<strong>Einde: </strong>"
+
+#: includes/admin/uwa_manage_auctions.php:254
+#: includes/admin/uwa_manage_user_auctions.php:255
+#: includes/admin/uwa_manage_user_auctions.php:264
+msgid "Order ID: "
+msgstr "Aankoop ID:"
+
+#: includes/admin/uwa_manage_auctions.php:312
+#: includes/admin/uwa_manage_user_auctions.php:310
+msgid "Type"
+msgstr "Type"
+
+#: includes/admin/uwa_manage_auctions.php:314
+#: includes/admin/uwa_manage_user_auctions.php:
+msgid "Creation & End Date"
+msgstr "Aanmaak & einddatum"
+
+#: includes/admin/uwa_manage_auctions.php:315
+#: includes/admin/uwa_manage_user_auctions.php:313
+msgid "Opening / Current Price"
+msgstr "Opening / Huidige Prijs"
+
+#: includes/admin/uwa_manage_auctions.php:316
+#: includes/admin/uwa_manage_user_auctions.php:314
+msgid "Reserve Price"
+msgstr "Reserveprijs"
+
+#: includes/admin/uwa_manage_auctions.php:326
+#: includes/admin/uwa_manage_user_auctions.php:324
+msgid "Opening / Final Price"
+msgstr "Opening / Eindprijs"
+
+#: includes/admin/class-uwa-admin.php:283
+msgid "Selling Type"
+msgstr "Verkooptype"
+
+#: includes/admin/class-uwa-admin.php:290
+msgid "Buy it now"
+msgstr "Koop nu"
+
+#: includes/admin/class-uwa-admin.php:279
+msgid "Set the selling type for the auction"
+msgstr "Zet het verkooptype voor deze veiling"
+
+#: includes/admin/class-uwa-admin.php:382
+msgid "Variable Bid Increment"
+msgstr "Variabele bodverhoging"
+
+#: includes/admin/class-uwa-admin.php:383
+msgid "Enable Variable Incremental Price."
+msgstr "Activeer variabele bodverhogingsprijs."
+
+#: includes/admin/class-uwa-admin.php:421
+msgid "Start Price"
+msgstr "Dtartprijs"
+
+#: includes/admin/class-uwa-admin.php:423
+msgid "End Price"
+msgstr "Eindprijs"
+
+#: includes/admin/class-uwa-admin.php:424
+msgid "Increment Price"
+msgstr "Verhogingsprijs"
+
+#: includes/admin/class-uwa-admin.php:433
+msgid "onwards"
+msgstr "tot"
+
+#: includes/admin/class-uwa-admin.php:531
+msgid "Enable Auto Relist"
+msgstr "Activeer automatisch opnieuw aanbieden"
+
+#: includes/admin/class-uwa-admin.php:533
+msgid ""
+"If there is no bid placed, Reserve price not met,if winner user not paid on "
+"this auction then the auction will get automatically Relist(Renew) for the "
+"duration specified in Relist duration interval."
+msgstr ""
+"Als er geen bod wordt geplaatst, of als de minimumprijs niet gehaald wordt, "
+"of als de winnaar van deze veiling niet betaald, wordt de veiling "
+"automatisch opnieuw aangeboden (vernieuwd) voor de duur die is opgegeven in "
+"interval voor opnieuw aanbieden."
+
+#: includes/admin/class-uwa-admin.php:543
+msgid "Recurring Auto Relist"
+msgstr "Terugkerende automatisch opnieuw aanbieden"
+
+#: includes/admin/class-uwa-admin.php:545
+msgid ""
+"Auction will get automatically Relist(Renew) repeat on the duration "
+"specified in Relist duration interval. Skip For Once Relist"
+msgstr ""
+"De veiling wordt automatisch opnieuw aangeboden (vernieuwd) voor de tijd is "
+"opgegeven in de opnieuw aanbieden interval. Leeg laten voor eenmalig opnieuw "
+"aanbieden."
+
+#: includes/admin/class-uwa-admin.php:554
+msgid "Relist If winner not paid."
+msgstr "Opnieuw aanbieden als de winnaar niet betaald."
+
+#: includes/admin/class-uwa-admin.php:556
+msgid "Enable if winner won the auction and not paid."
+msgstr "Activeer als de winnaar de veiling niet betaald."
+
+#: includes/admin/class-uwa-admin.php:562
+msgid "If winner not paid.Relist after"
+msgstr "Als de winnaar niet betaald. Bied de veiling opnieuw aan na"
+
+#: includes/admin/class-uwa-admin.php:563
+msgid "Hours."
+msgstr "Uren."
+
+#: includes/admin/class-uwa-admin.php:578
+msgid "Relist If No Bids."
+msgstr "Opnieuw aanbiedingen als er geen biedingen zijn."
+
+#: includes/admin/class-uwa-admin.php:580
+msgid "Enable if auction expired with no bids."
+msgstr "Activeer als een veiling verloopt zonder biedingen."
+
+#: includes/admin/class-uwa-admin.php:585
+msgid "If No Bids Placed. Relist after"
+msgstr "Als er geen biedingen zijn geplaatst. Bied de veiling opnieuw aan na"
+
+#: includes/admin/class-uwa-admin.php:601
+msgid "if Reserve Price not met."
+msgstr "als de reserveprijs niet behaald is."
+
+#: includes/admin/class-uwa-admin.php:603
+msgid "Enable Relist if Reserve Price not met.."
+msgstr "Activeer opnieuw aanbieden als de reserveprijs niet gehaald wordt."
+
+#: includes/admin/class-uwa-admin.php:608
+msgid "if Reserve not met. Relist after "
+msgstr "Als de reseveprijs niet gehaald is. Bied de veiling dan opnieuw aan na"
+
+#: includes/admin/class-uwa-admin.php:620
+msgid "Relist duration for "
+msgstr "De tijd voor opnieuw aanbieden"
+
+#: includes/admin/class-uwa-admin.php:667
+msgid "Manually Relist Now"
+msgstr "Handmatig nu opnieuw aanbieden"
+
+#: modules/wcfm/wcfm-uwa-auctions-lists.php:72
+msgid "Start On"
+msgstr "Start op"
+
+#: modules/wcfm/wcfm-uwa-auctions-lists.php:73
+msgid "Ending On"
+msgstr "Eindigt op"
+
+#: modules/wcfm/wcfm-uwa-auctions-lists.php:74
+msgid "Current Price"
+msgstr "Actuele Prijs"
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:41
+msgid "Auction Detail"
+msgstr "Veiling Detail"
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:49
+msgid "Auction #"
+msgstr "Veiling #"
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:58
+msgid "Auction Overview"
+msgstr "Veiling Overzicht"
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:135
+msgid "Relist Now"
+msgstr "Nu opnieuw aanbieden"
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:175
+msgid "Auction has been relisted on:"
+msgstr "De veiling is opnieuw aangeboden op:"
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:182
+msgid "Auction Expired without any bids."
+msgstr "De veiling is verlopen zonder biedingen."
+
+#: modules/wcfm/wcfm-uwa-auctions-detail.php:252
+msgid "Auction relisted"
+msgstr "Opnieuw aangeboden veiling"
+
+#: modules/wcfm/wcfm-uwa-auctions-support.php:847
+msgid "Auction Relisted successfully."
+msgstr "De veiling is succesvol opnieuw aangeboden."
+
+#: modules/wcfm/wcfm-uwa-auctions-support.php:851
+msgid "Try Again."
+msgstr "Probeer het opnieuw"
+
+#: includes/admin/uwa_auction_help.php:25
+#: includes/admin/uwa_auction_help.php:26
+msgid "Need Any Assistance?"
+msgstr "Heeft u hulp nodig ?"
+
+#: includes/admin/uwa_auction_help.php:27
+msgid "Our EXPERT Support Team is always ready to Help you out."
+msgstr "Ons ondersteuningsteam staat altijd klaar om u voort te helpen."
+
+#: includes/admin/uwa_auction_help.php:30
+#: includes/admin/uwa_auction_help.php:31
+msgid "Found Any Bugs?"
+msgstr "Heeft u fouten gevonden in de software ?"
+
+#: includes/admin/uwa_auction_help.php:32
+msgid "Report any Bug that you Discovered, Get Instant Solutions."
+msgstr "Rapporteer elke fout die u ontdekt. Krijg direct een oplossing."
+
+#: includes/admin/uwa_auction_help.php:35
+#: includes/admin/uwa_auction_help.php:35
+msgid "Require Customization?"
+msgstr "Wenst u ,maatwerk?"
+
+#: includes/admin/uwa_auction_help.php:37
+msgid "We would Love to hear your Integration and Customization Ideas."
+msgstr "We horen graag uw Integratie en maatwerk ideeën. "
+
+#: includes/admin/uwa_auction_help.php:44
+msgid ""
+"Please download system report from <a href=\"%s\" >WooCommerce </a> and send "
+"it to us while reporting any issue."
+msgstr ""
+"Download alstublieft het systeemrapport van <a href=\"%s\" >WooCommerce </a> "
+"en stuur dit naar ons als u een probleem meldt bij ons."
+
+#: includes/admin/uwa_auction_help.php:48
+msgid "Contact Suppor"
+msgstr "Neem contact met de supportafdeling"
+
+#: includes/admin/uwa_auction_help.php:53
+#: includes/admin/uwa_auction_help.php:55
+msgid "Looking for Something?"
+msgstr "Zoekt u iets?"
+
+#: includes/admin/uwa_auction_help.php:57
+msgid ""
+"We have detailed documentation on every aspects of Ultimate WooCommerce "
+"Auction - Pro."
+msgstr ""
+"We hebben gedetailleerde documentatie over alle aspecten van Ultimate "
+"WooCommerce Auction - Pro."
+
+#: includes/admin/uwa_auction_help.php:59
+msgid "Visit the Plugin Documentation."
+msgstr "Bekijk de plug-in documentatie."
+
+#: includes/admin/uwa_auction_help.php:64
+#: includes/admin/uwa_auction_help.php:66
+msgid "Like The Plugin?"
+msgstr "Bevalt de Plugin? "
+
+#: includes/admin/uwa_auction_help.php:68
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr ""
+"Uw beoordeling is erg belangrijk voor ons, het helpt ons om verder te "
+"groeien."
+
+#: includes/admin/uwa_auction_help.php:70
+msgid "Review Us on WP.org"
+msgstr "Beoordeel ons op WP.org"
+

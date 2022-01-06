@@ -1,0 +1,679 @@
+div#uwa-auction-banner-text { 
+    float: left;
+    width: 100%;
+    margin: 14px 0 29px 0
+}
+
+.uwa_main_setting .uwa_main_setting_content {
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: #eee;
+    display: inline-block;
+    width: 100%;
+    margin: 20px 0
+}
+
+.uwa_main_setting .uwa_main_setting_content table tr.uwa_heading td,
+.uwa_main_setting .uwa_main_setting_content table tr.uwa_heading th {
+    padding: 6px 0 6px 12px;
+    margin: 0 0 10px 0;
+    font-weight: 600!important;
+    font-size: 1.3em!important;
+    background-color: #f9f9f9;
+    color: #23282d!important
+}
+
+.uwa_main_setting .uwa_main_setting_content table tr.submit th {
+    padding: 6px 0 6px 12px;
+    margin: 0 0 10px 0;
+    font-weight: 600!important;
+    font-size: 1.3em!important
+}
+
+.form-table th {
+    font-weight: 700!important;
+    color: #444!important;
+    font-size: 13px!important;
+    line-height: 1.4em!important
+}
+
+.uwa_main_setting .uwa_main_setting_content table tr.uwa_heading th {
+    position: relative
+}
+
+.uwa_main_setting .uwa_main_setting_content table {
+    margin: 0
+}
+
+.uwa_main_setting .uwa_main_setting_content .uwa_main_setting_content_text {
+    padding: 20px
+}
+
+.uwa_main_setting .uwa_main_setting_content .uwa_main_setting_content_text p {
+    margin-top: 0;
+    margin-bottom: 15px
+}
+
+.uwa_main_setting .uwa_main_setting_content .uwa_main_setting_content_text p:last-child {
+    margin-bottom: 0
+}
+
+.uwa_main_setting .uwa_main_setting_content table tr td,
+.uwa_main_setting .uwa_main_setting_content table tr th {
+    padding: 15px 20px;
+    border-bottom: dashed #eee
+}
+
+.uwa_main_setting .subsubsub {
+    margin: 12px 0
+}
+
+.uwa_main_setting .regular-number {
+    margin: 0 10px
+}
+
+.auction_tab_options a:before {
+    background: url(../images/woo_ua_auction_admin.png) center no-repeat;
+    display: inline-block!important;
+    width: 17px;
+    height: 17px;
+    content: ' '!important
+}
+
+.uwa-table-responsive {
+    min-height: .01%;
+    overflow-x: auto
+}
+
+.uwa-admin-table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse
+}
+
+.uwa-admin-table>tbody>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    background-color: #eee
+}
+
+.uwa-admin-table>tbody>tr>td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top
+}
+
+.uwa-admin-table-bordered {
+    border: 1px solid #ddd
+}
+
+.uwa-admin-table-bordered>tbody>tr>th {
+    border: 1px solid #ddd
+}
+
+.uwa-admin-table-bordered>tbody>tr>td {
+    border: 1px solid #ddd
+}
+
+.uwa_admin_current_time {
+    margin: 20px 0;
+    padding-left: 12px
+}
+
+table.wp-list-table .column-admin_auction_status {
+    text-align: left!important;
+    width: 12ch
+}
+
+table.wp-list-table .column-price {
+    width: 12ch
+}
+
+.uwa-bidslist ul li a {
+    width: 45px;
+    display: inline-block
+}
+
+.uwa-bidslist .woocommerce-Price-amount {
+    width: 80px;
+    text-align: center;
+    display: inline-block
+}
+
+.uwa_auction_setting_style h3 {
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, .1) rgba(0, 0, 0, .1) rgba(0, 0, 0, .25);
+    background: linear-gradient(to bottom, #fff 0, #e6e6e6 100%);
+    margin-bottom: 0!important;
+    padding: 10px;
+    border-top: 1px solid #dfdfdf;
+    border-left: 1px solid #dfdfdf;
+    border-right: 1px solid #dfdfdf;
+    border-radius: 3px 3px 0 0;
+    font-size: 13px
+}
+
+.uwa_auction_setting_style table td {
+    padding-top: 15px!important
+}
+
+.uwa_section_tr {
+    border-top: 1px solid #dfdfdf;
+    padding: 10px!important
+}
+
+.uwa_auction_setting_style #submit,
+.uwa_auction_setting_style #uwa-settings-submit {
+    font-size: 14px;
+    min-height: 35px;
+    min-width: 130px;
+    margin-top: 20px
+}
+
+.uwa-auction-settings-tip {
+    font-style: italic;
+    color: #444;
+    padding-top: 10px
+}
+
+.uwa_fields_tooltip {
+    background: #666;
+    cursor: help;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    outline: 0;
+    -moz-border-radius: 50%;
+    border-radius: 20px;
+    padding: 0 4.6px;
+    margin-left: 3px;
+    font-size: 10px;
+    left: -10px;
+    top: 0;
+    position: relative
+}
+
+.description .uwa_fields_tooltip {
+    margin: 0 0 0 15px
+}
+
+.uwa_fields_tooltip span {
+    font-size: 11px;
+    visibility: hidden;
+    position: absolute;
+    bottom: 30px;
+    left: 80%;
+    z-index: 999;
+    width: 550px;
+    margin-left: -127px;
+    padding: 10px;
+    color: #fff;
+    max-width: 150px;
+    background: #333;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .2)
+}
+
+.uwa_fields_tooltip:hover {
+    border: 0
+}
+
+.uwa_fields_tooltip:hover span {
+    visibility: visible
+}
+
+.uwa_fields_tooltip span:after,
+.uwa_fields_tooltip span:before {
+    content: "";
+    position: absolute;
+    z-index: 1000;
+    bottom: -7px;
+    left: 71%;
+    margin-left: -8px;
+    border-top: 8px solid #333;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 0
+}
+
+.uwa_fields_tooltip span:before {
+    border-top-color: #333;
+    bottom: -8px
+}
+
+.uwa_fields_tooltip:hover {
+    color: #fff
+}
+
+span.uwa_version_text {
+    padding: 19px 0 4px 9px;
+    font-size: 12px
+}
+
+span.uwa_info_text {
+    padding: 19px 0 4px 9px;
+    font-size: 15px
+}
+
+div#uwa-manage-auction-banner-text {
+    float: left;
+    width: 100%;
+    margin: 8px 0 19px 0;
+    font-size: 15px!important
+}
+
+#uwa_countdown_format {
+    width: 110px;
+    margin: 0 10px 0 0
+}
+
+.uwa_auction_setting_style input[type=number] {
+    width: 90px;
+    margin: 0 10px
+}
+
+.uwa_auction_relist_date_field {
+    display: none
+}
+
+a.uwa-highlight-btn,
+a.uwa-highlight-btn:focus {
+    text-decoration: none!important;
+    border-radius: 2px;
+    display: block;
+    padding: 5px 10px;
+    font-size: 1.1em;
+    border: none;
+    box-shadow: none
+}
+
+a.highlight-btn-active {
+    color: #fff;
+    background-color: #337ab7
+}
+
+a.highlight-btn-disabled {
+    color: #337ab7;
+    background-color: #fff
+}
+
+a.highlight-btn-disabled:hover {
+    color: #777;
+    background-color: #ddd
+}
+
+p.uwa_variable_bid_increment_main {
+    display: none
+}
+
+.uwa_custom_field_onwards_main {
+    display: none
+}
+
+.uwa_custom_field_main {
+    float: left;
+    padding-top: 1px;
+    max-width: 508px
+}
+
+.uwa_custom_field_onwards_main {
+    float: left;
+    padding-top: 1px;
+    padding-left: 162px!important
+}
+
+.uwa_auction_price_fields {
+    width: 30%!important
+}
+
+.uwa_add_auction_produt_main {
+    text-align: center;
+    margin-bottom: 50px
+}
+
+.uwa_add_auction_produt_main a {
+    height: 41px!important;
+    line-height: 38px!important;
+    padding: 0 32px 2px!important;
+    font-size: 16px!important
+}
+
+.uwa_add_auction_produt_hint {
+    text-align: center
+}
+
+.auctions_page_uwa_manage_auctions .column-auction_type {
+    width: 70px;
+}
+
+.auctions_page_uwa_manage_auctions .column-create_date {
+    width: 76px;
+}
+
+.auctions_page_uwa_manage_auctions .column-end_date {
+    width: 76px;
+}
+
+.auctions_page_uwa_manage_auctions .column-bidders {
+    width: 370px !important;
+}
+
+.auctions_page_uwa_manage_auctions .column-uwa_action {
+    width: 110px !important;
+}
+
+.auctions_page_uwa_manage_auctions .column-expiry_reason {
+    width: 140px!important
+}
+
+.uwa-bidslist td {
+    padding: 5px!important
+}
+
+.uwa-see-more {
+    padding: 7px!important
+}
+
+.auctions_page_uwa_manage_auctions .column-title {
+    width: 170px !important;
+}
+
+.auctions_page_uwa_manage_auctions .column-opening_price {
+    width: 90px!important
+}
+
+.auctions_page_uwa_manage_auctions .column-reserve_price {
+    width: 90px!important
+}
+
+.uwa_auto_renew_auction_main {
+    display: none
+}
+
+.uwa_auto_renew_auction_not_paid {
+    display: none
+}
+
+.uwa_auto_renew_auction_no_bids {
+    display: none
+}
+
+.uwa_auto_renew_auction_no_reserve {
+    display: none
+}
+
+.uwa_help_section_main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 30px
+}
+
+.uwa_help_section_main .uwa_help_block {
+    width: 30%;
+    padding: 50px 15px 36px 15px;
+    text-align: center
+}
+
+.uwa_help_section_main .uwa_help_block img {
+    max-height: 120px
+}
+
+.uwa_help_row.row2 .uwa_help_block {
+    width: 48%;
+    padding: 50px 15px 36px 15px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 0 1%
+}
+
+.uwa_help_row .row1 a.button.button-primary {
+    text-align: center;
+    margin: 0 auto
+}
+
+.uwa_help_row.row1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 0 15px 0 15px
+}
+
+a.button.button-primary.btn-custum {
+    text-align: center;
+    display: block;
+    margin: 20px auto
+}
+
+.uwa_help_row .row1.uwa_help_section_main .uwa_help_block {
+    flex: 1;
+    align-self: flex-start;
+    margin-bottom: 25px
+}
+
+.uwa_help_row.row2 {
+    width: 66%;
+    margin: 25px 0;
+    display: flex;
+    justify-content: space-around
+}
+
+.uwa_help_row.row1 .box-btn {
+    text-align: center;
+    margin: 0 auto
+}
+
+.uwa_import {
+    background-color: transparent;
+    padding: 20px;
+    margin-top: 20px
+}
+
+.uwa_import h2 {
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 1.5em
+}
+
+.uwa_import_header {
+    margin-right: 20px
+}
+
+.uwa_import li {
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+    vertical-align: top;
+    font-size: 16px
+}
+
+.uwa_import ul {
+    text-align: center
+}
+
+.uwa_import a.button-primary {
+    line-height: 23px;
+    margin-left: 10px;
+    vertical-align: middle;
+    display: block;
+    height: 50px;
+    width: 250px;
+    margin: 0 auto 20px;
+    font-size: 16px;
+    padding: 10px 0;
+    background: #bb77ae;
+    border-color: #a36597;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 0 #a36597;
+    color: #fff;
+    text-shadow: 0 -1px 1px #a36597, 1px 0 1px #a36597, 0 1px 1px #a36597, -1px 0 1px #a36597;
+    font-size: 16px
+}
+
+.uwa_import a.button-primary:hover {
+    border-color: #a36597;
+    background-color: #a36597;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 0 #a36597
+}
+
+.uws-addons-content .plugin-card .plugin-action-buttons .uwa-switch input:checked+.uwa_slider {
+    background-color: #0068a0
+}
+
+.uwa_addon_setting_title {
+    padding: 6px 0 6px 12px;
+    padding: 10px 0 12px 12px;
+    margin: 0 0 10px 0;
+    font-weight: 600!important;
+    font-size: 1.3em!important;
+    background-color: #f9f9f9;
+    color: #23282d!important
+}
+
+.uwa-switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 18px
+}
+
+.uwa-switch input {
+    display: none
+}
+
+.uwa-switch .uwa_slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s
+}
+
+.uwa-switch .uwa_slider.round {
+    border-radius: 34px
+}
+
+.uwa-switch .uwa_slider.round:before {
+    border-radius: 50%
+}
+
+.uwa-switch .uwa_slider.round:before {
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 14px;
+    left: 2px;
+    bottom: 2px;
+    background-color: #fff;
+    -webkit-transition: .4s;
+    transition: .4s
+}
+
+.uwa-switch input:checked+.uwa_slider:before {
+    -webkit-transform: translateX(22px);
+    -ms-transform: translateX(22px);
+    transform: translateX(22px)
+}
+
+.uwa_add_auction_produt_main img {
+    height: 130px;
+    width: 130px;
+    padding-bottom: 25px
+}
+
+.uwa_add_auction_produt_main h2 {
+    font-size: 1.5em;
+    margin-bottom: 2em
+}
+
+.uwa_add_auction_produt_main .button.button-primary {
+    background: #bb77ae;
+    border-color: #a36597;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 0 #a36597;
+    color: #fff;
+    text-shadow: 0 -1px 1px #a36597, 1px 0 1px #a36597, 0 1px 1px #a36597, -1px 0 1px #a36597;
+    font-size: 1.2em!important;
+    padding: .75em 1.5em!important;
+    margin: 0 .25em!important;
+    height: auto!important
+}
+
+.uwa_add_auction_produt_main .button.button-primary:hover {
+    background: #a36597;
+    border-color: #a36597;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), 0 1px 0 #a36597
+}
+
+.uwa_add_auction_produt_main .button {
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    box-shadow: 0 1px 0 #ccc;
+    vertical-align: top;
+    font-size: 1.2em!important;
+    padding: .75em 1.5em!important;
+    margin: 0 .25em!important;
+    height: auto!important
+}
+
+.woo_ua_buyer_given_to_field ul.wc-radios li,
+.woo_ua_buyer_type_field ul.wc-radios li {
+    margin-bottom: 0!important;
+    width: 115px!important
+}
+
+
+/* fieldset.form-field.woo_ua_buyer_given_to_field {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+fieldset.form-field.woo_ua_buyer_level_field {
+    margin-bottom: 0!important;
+}
+
+fieldset.form-field.woo_ua_buyer_type_field {
+    margin: 0!important;
+} */
+
+.woo_ua_buyer_given_to_field ul.wc-radios,
+.woo_ua_buyer_type_field ul.wc-radios {
+    display: flex!important
+}
+
+fieldset.form-field.woo_ua_buyer_level_field .wc-radios {
+    display: flex!important;
+    justify-content: space-between;
+    width: 310px!important;
+}
+
+@media only screen and (max-width:1140px) {
+    .uwa_help_section_main .uwa_help_block {
+        width: 23%
+    }
+    .uwa_help_section_main .box-btn {
+        width: 100%
+    }
+    .uwa_help_section_main .box-btn a.button.button-primary.btn-custum {
+        width: 135px
+    }
+}
+
+.uwa_woo_report_text {
+    width: 100%
+}
+
+.ui-widget-header .ui-icon {
+    background-image: url(../images/ui-icons_222222_256x240.png)!important;
+}
