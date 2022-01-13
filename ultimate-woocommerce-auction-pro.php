@@ -11,7 +11,7 @@
  * License: GPLv2
  * Copyright 2021 Nitesh Singh
  * WC requires at least: 3.0.0
- * WC tested up to: 6.0.0
+ * WC tested up to: 6.1.0
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
