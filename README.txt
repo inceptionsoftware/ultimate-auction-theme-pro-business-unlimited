@@ -2,7 +2,7 @@
 Contributors: nitesh_singh
 Tags: woocommerce auction, woocommerce auction plugin, woocommerce auction theme, woocommerce bidding
 Requires at least: 4.6
-Tested up to: 5.8.2
+Tested up to: 5.8.3
 Stable tag: 2.2.1
 Requires PHP: 5.6
 License: GPLv2 or later
